@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "OW_Euskaraz_Mod.dll",
+  "author": "Eztainu",
+  "name": "OW_Euskaraz_Mod",
+  "uniqueName": "Eztainu.OW_Euskaraz_Mod",
+  "version": "0.1.0",
+  "owmlVersion": "2.11.1",
+  "dependencies": []
+}
