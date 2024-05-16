@@ -17,7 +17,7 @@ namespace OW_Euskaraz_Mod
             // Starting here, you'll have access to OWML's mod helper.
             ModHelper.Console.WriteLine($"{nameof(BasqueTranslation)} is loaded!", MessageType.Success);
 
-            var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
+            var api = ModHelper.Interaction.TryGetModApi<BasqueTranslation.ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "Euskara", "assets/Translation.xml");
         }
     }
