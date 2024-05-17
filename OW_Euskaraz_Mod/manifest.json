@@ -6,5 +6,5 @@
   "uniqueName": "Eztainu.OW_Euskaraz_Mod",
   "version": "0.1.0",
   "owmlVersion": "2.11.1",
-  "dependencies": []
+  "dependencies": [ "xen.LocalizationUtility" ]
 }
