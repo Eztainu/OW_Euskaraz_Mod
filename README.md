@@ -9,8 +9,8 @@ Mod honek **Outer Wilds** joko osoa euskarara itzultzen du. Orain unibertsoa zur
 
 ## Instalazio Argibideak
 
-3. Instalatu **Mod Loader** ez baduzu jadanik instalatuta.
-4. Hautatu BasqueTranslation mod-a eta klikatu "Instalatu".
+3. Instalatu [**Outer Wilds Mod Loader**](https://outerwildsmods.com/mod-manager/) ez baduzu jadanik instalatuta.
+4. Hautatu "Outer Wilds Basque Translation" mod-a eta klikatu "Instalatu".
 5. Prest! Orain jokoa abiarazi eta euskaraz gozatu dezakezu.
 
 ## Laguntza
@@ -26,7 +26,7 @@ Itzulpena hobetzeko akatsak aurkitzen badituzu edo iradokizunak izaten badituzu,
 
 # Outer Wilds - Basque Translation Mod (BasqueTranslation)
 
-This mod provides a complete translation of the game **Outer Wilds** into the Basque language (Euskara). Now you can enjoy exploring the universe in your native tongue.
+This mod provides a complete translation of the game [**Outer Wilds Mod Loader**](https://outerwildsmods.com/mod-manager/) into the Basque language (Euskara). Now you can enjoy exploring the universe in your native tongue.
 
 ## Features
 
@@ -36,7 +36,7 @@ This mod provides a complete translation of the game **Outer Wilds** into the Ba
 ## Installation Instructions
 
 3. Install the **Mod Loader** if you haven't already.
-4. Select the BasqueTranslation mod and click "Install."
+4. Select the "Outer Wilds Basque Translation" mod and click "Install."
 5. You're all set! Now you can launch the game and enjoy it in Euskara.
 
 ## Contributions

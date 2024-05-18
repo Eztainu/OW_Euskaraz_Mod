@@ -2720,7 +2720,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer12Glad you’re excited, but remember, if you wreck the ship I’m not building you a new one. I’m not made of lightweight reentry grade aluminum alloys, you know.</key>
-    <value>Pozten nau berotasun hutsa izateak, baina gogoratu: espazio-ontzi hau hondatzen baduzu, ez dizut berri bat eraikiko. Nire gorputza ez dago aluminiozko aleazio arinekin egina.</value>
+    <value>Pozten nau irrikaz egoteak, baina gogoratu: espazio-ontzi hau hondatzen baduzu, ez dizut berri bat eraikiko. Nire gorputza ez dago aluminiozko aleazio arinekin egina.</value>
   </entry>
   <entry>
     <key>ScientistAnswer13Are you kidding? Of course I’m ready - it’s finally time to test the new landing hydraulics with a pilot instead of the autoflight system!</key>
@@ -2780,7 +2780,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-    <value>Ah, eta Gossanek dio zero grabitate kamera prest duela, espazioko konponketen gaia errepasatu nahi baduzu ere. Ez dut esan zuk &lt;i&gt;behar&lt;/i&gt; duzunik, baina  Gossanek molesta ez nazan lagunduko zenidake.</value>
+    <value>Ah, eta Gossanek dio zero grabitate kamera prest duela, espazioko konponketen gaia errepasatu nahi baduzu ere. Ez dut esan zuk &lt;i&gt;behar&lt;/i&gt; duzunik, baina  Gossanek gogaitu ez nazan lagunduko zenidake.</value>
   </entry>
   <entry>
     <key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
@@ -2808,7 +2808,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer23Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.\\nNo offense.</key>
-    <value>Noski, hamarreko bat jarriko nioke. Pilotaje-akatsak kontuan hartzen ez badituzu, lau jarriko dizkizut.\\nIraindu gabe, noski.</value>
+    <value>Noski, hamarreko bat jarriko nioke. Pilotaje-akatsak kontuan hartzen ez badituzu, bestela lauko bat jarriko nioke.\\nIraindu gabe, noski.</value>
   </entry>
   <entry>
     <key>Scientist3Oh, hold up, you’re going to want to get the launch codes from the observatory first.</key>
@@ -6249,11 +6249,11 @@
   </entry>
   <entry>
     <key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-    <value>ARRISKUA! Hesi honetan &lt;color=orange&gt;ezkutuko materia&lt;/color&gt; dago: substantzia hotz eta arrotz bat, begi hutsez hauteman ezin daitekeena. Onena da &lt;color=orange&gt;ezkutuko materia&lt;/color&gt; detekta dezakezula kamera batekin.</value>
+    <value>ARRISKUA! Hesi honetan &lt;color=orange&gt;mamu-materia&lt;/color&gt; dago: substantzia hotz eta arrotz bat, begi hutsez hauteman ezin daitekeena. Onena da &lt;color=orange&gt;mamu-materia&lt;/color&gt; detekta dezakezula kamera batekin.</value>
   </entry>
   <entry>
     <key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
-    <value>&lt;color=orange&gt;Ezkutuko materia&lt;/color&gt; zeharkatzen saiatzen bazara, min ikaragarria sentituko duzu, eta baliteke hiltzea. Ez zaitez kexatzera etorri lesioak badituzu hortik tontakeritan ibiltzeagatik.\\n — Corné</value>
+    <value>&lt;color=orange&gt;Mamu-materia&lt;/color&gt; zeharkatzen saiatzen bazara, min ikaragarria sentituko duzu, eta baliteke hiltzea. Ez zaitez kexatzera etorri lesioak badituzu hortik tontakeritan ibiltzeagatik.\\n — Corné</value>
   </entry>
   <entry>
     <key>Gneiss</key>
@@ -6353,7 +6353,7 @@
   </entry>
   <entry>
     <key>Coach1Nerves getting the better of you?</key>
-    <value>Nerbioak jaten ari zaizkizu?</value>
+    <value>Urduri al zaude?</value>
   </entry>
   <entry>
     <key>GossanCoach1Right, like you weren’t nervous for your first flight.</key>
@@ -6369,7 +6369,7 @@
   </entry>
   <entry>
     <key>Coach2Hey, don’t worry about it. Your nerves are between you, me, and the vast endlessness of space.</key>
-    <value>Aizu, ez kezkatu. Zure nerbioak zu, ni eta espazio infinituaren artean geratuko dira.</value>
+    <value>Aizu, ez kezkatu. Zure urduritasuna zu, ni eta espazio infinituaren artean geratuko dira.</value>
   </entry>
   <entry>
     <key>Coach2But really, you’ll do fine out there. I’d worry more about that ship, if I were you. Hopefully that lunatic Slate at least fixed the retro rockets.</key>
@@ -6377,7 +6377,7 @@
   </entry>
   <entry>
     <key>Coach3Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</key>
-    <value>Ongi. Inork ez luke nerbioetatik salbu egon behar espaziora irteten denean. Harroputz samarra izan nintzen nire lehen hegaldian eta ia krater berri bat egin nuen Ilargian.</value>
+    <value>Ongi. Inork ez luke urduritasunetik salbu egon behar espaziora irteten denean. Harroputz samarra izan nintzen nire lehen hegaldian eta ia krater berri bat egin nuen Ilargian.</value>
   </entry>
   <entry>
     <key>Coach3Still, I was never as green as you.</key>
@@ -6733,7 +6733,7 @@
   </entry>
   <entry>
     <key>PorphySapWineMaker1The Good Stuff is less “delicious sap wine” and more “daunting digestive challenge.”</key>
-    <value>Virtuoso gehiago da «digestio-erronka» bat «ardo goxoa» baino.</value>
+    <value>Virtuosoa gehiago da «digestio-erronka» bat «ardo goxoa» baino.</value>
   </entry>
   <entry>
     <key>SolarSystemAnother metaphor ruined in the name of scientific accuracy.</key>
@@ -7013,7 +7013,7 @@
   </entry>
   <entry>
     <key>Spinel3Gabbro wants to see what lay beneath the surface, so they decided to travel deeper. They traveled down, and down...</key>
-    <value>Gabrok gainazalaren azpian zer zegoen ikusi nahi zuen, eta, beraz, pixka bat gehiago barneratzea erabaki zuen. Jaitsi eta jaisten jarraitu zuen...</value>
+    <value>Gabrok gainazalaren azpian zer zegoen ikusi nahi zuen, eta, beraz, pixka bat gehiago barneratzea erabaki zuen. Jaisten eta jaisten jarraitu zuen...</value>
   </entry>
   <entry>
     <key>Spinel3But suddenly, Gabbro couldn’t go any further.</key>
@@ -7045,7 +7045,7 @@
   </entry>
   <entry>
     <key>Spinel7As though exercising a will of its own, the water was refusing to let Gabbro go any deeper. It held Gabbro back. ...Almost as if it were trying to protect them from something.</key>
-    <value>Urak, bere borondatea balu bezala, uko egiten zien Gabrok sakonago joateko egiten zituen ahaleginei. Gabro atxikitzen zuen... zerbait gerta ez zekion ahaleginduko balitz bezala.</value>
+    <value>Urak, bere borondatea balu bezala, uko egiten zien Gabrok sakonago joateko egiten zituen ahaleginei. Gabro atxikitzen zuen... Ia zerbaitetik babesten saiatuko balintz bezala.</value>
   </entry>
   <entry>
     <key>Spinel7And then, in the terrible darkness, Gabbro saw it...!</key>
@@ -7447,7 +7447,7 @@
   </entry>
   <entry>
     <key>ZeroSo you’re going in &lt;i&gt;there&lt;/i&gt;? In the cave? Hnnngh...</key>
-    <value> &lt;i&gt;Horrera&lt;/i&gt; sartuko zarela diozu? kobazulora? Ufff...</value>
+    <value> &lt;i&gt;Horra&lt;/i&gt; sartuko zarela diozu? kobazulora? Ufff...</value>
   </entry>
   <entry>
     <key>ZeroWhat? No, I’m fine. Great. Great and fine.</key>
@@ -7587,7 +7587,7 @@
   </entry>
   <entry>
     <key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-    <value>Hesi honetan dagoen ezkutuko materia zati horri buruz... Gossanek esan zuen handiagoa izaten zela txikitxo bat zenean. Ezkutuko materia lurrundu egiten delako.</value>
+    <value>Hesi honetan dagoen mamu-materia zati horri buruz... Gossanek esan zuen handiagoa izaten zela txikitxo bat zenean. Mamu-materia lurrundu egiten delako.</value>
   </entry>
   <entry>
     <key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
@@ -7595,19 +7595,19 @@
   </entry>
   <entry>
     <key>Arkose1I hope there’s still ghost matter in the village when I’m a grown-up. Ghost matter is awesome!</key>
-    <value>Espero dut oraindik ezkutuko materia geratzea herrixkan, hazten naizean. Ezkutuko materia sinestezina da!</value>
+    <value>Espero dut oraindik mamu-materia geratzea herrixkan, hazten naizean. Mamu-materia sinestezina da!</value>
   </entry>
   <entry>
     <key>ArkoseArkose1Ghost matter is super cool. It’ll burn the heck out of you!</key>
-    <value>Ezkutuko materia harrigarria da! Egosi zaitzake!</value>
+    <value>Mamu-materia harrigarria da! Egosi zaitzake!</value>
   </entry>
   <entry>
     <key>ArkoseArkose1You shouldn’t be throwing rocks in there — ghost matter is dangerous.</key>
-    <value>Ez zenituzke hara harriak bota behar: ezkutuko materia arriskutsua da.</value>
+    <value>Ez zenituzke hara harriak bota behar: mamu-materia arriskutsua da.</value>
   </entry>
   <entry>
     <key>ArkoseArkose1You know ghost matter is how Tektite lost their foot, right?</key>
-    <value>Badakizu Tectitak bere hanka galdu zuela ezkutuko materiagatik, ezta?</value>
+    <value>Badakizu Tectitak bere hanka galdu zuela mamu-materiagatik, ezta?</value>
   </entry>
   <entry>
     <key>Arkose2Yeah! I heard touching it hurts so bad it feels like your whole hand’s on fire!</key>
@@ -7615,7 +7615,7 @@
   </entry>
   <entry>
     <key>Arkose2Try not to walk into any in space, okay? That sounds bad and painful.</key>
-    <value>Saiatu espazioan ezkutuko materia ez zapaltzen, ados? Izugarria eta mingarria dirudi.</value>
+    <value>Saiatu espazioan mamu-materia ez zapaltzen, ados? Izugarria eta mingarria dirudi.</value>
   </entry>
   <entry>
     <key>Arkose3Uhhh, obviously? That’s what makes it so &lt;i&gt;awesome&lt;/i&gt;? Geez, I’m not dumb enough to &lt;i&gt;touch&lt;/i&gt; it.</key>
@@ -7631,7 +7631,7 @@
   </entry>
   <entry>
     <key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
-    <value>Bikaina da Miniesploratzaileek ezkutuko materia eta hori guztia detektatu ahal izatea, baina &lt;i&gt;askoz&lt;/i&gt; bikainagoa izango litzateke, gainera, mamu-materia jaurti ahal izango balute. ¡&lt;i&gt;Pim, pum, pam&lt;/i&gt;!</value>
+    <value>Bikaina da Miniesploratzaileek mamu-materia eta hori guztia detektatu ahal izatea, baina &lt;i&gt;askoz&lt;/i&gt; bikainagoa izango litzateke, gainera, mamu-materia jaurti ahal izango balute. ¡&lt;i&gt;Pim, pum, pam&lt;/i&gt;!</value>
   </entry>
   <entry>
     <key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
@@ -7791,7 +7791,7 @@
   </entry>
   <entry>
     <key>SignAlthough it’s been argued such a distinction requires a breathtakingly liberal definition of flight, that day will nevertheless always be remembered as landmark achievement in Hearthian history.</key>
-    <value>Bereizketa hori emateko hegaldi bat zer den oso modu malguan definitu behar dela esan den arren, egun hori, zalantzarik gabe, gure memorietan lorpen garrantzitsu gisa geratuko da gerrialdearen historian.</value>
+    <value>Bereizketa hori emateko hegaldi bat zer den oso modu malguan definitu behar dela esan den arren, egun hori, zalantzarik gabe, gure memorietan lorpen garrantzitsu gisa geratuko da Sutondoren historian.</value>
   </entry>
   <entry>
     <key>SignAside from the dwellings and structures they built, the Nomai also made art. This decorated pottery was discovered on Brittle Hollow.</key>
@@ -7823,7 +7823,7 @@
   </entry>
   <entry>
     <key>SignThe strange rock moving around in this grotto appears to react to conscious observation.</key>
-    <value>Haitzulo honen inguruan mugitzen den arroka bitxiak kontzienteki behatzea erreakzionatzen duela dirudi.</value>
+    <value>Haitzulo honen inguruan mugitzen den arroka bitxiak kontzienteki behatzean erreakzionatzen duela dirudi.</value>
   </entry>
   <entry>
     <key>SignThe level-headed among us realize there must be some sort of optical illusion at play, but Gabbro claims the rock “exists in all possible states until it is observed” (whatever that means).</key>
@@ -8139,7 +8139,7 @@
   </entry>
   <entry>
     <key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
-    <value>Sarkin-era iritsi zirenean hil ziren, ezkutuko materia deitzen diogun substantzia hilgarriarekin. Eguzki-sistema osoa bat-batean eta aldez aurretik abisatu gabe busti zuen.</value>
+    <value>Sarkin-era iritsi zirenean hil ziren, mamu-materia deitzen diogun substantzia hilgarriarekin. Eguzki-sistema osoa bat-batean eta aldez aurretik abisatu gabe busti zuen.</value>
   </entry>
   <entry>
     <key>SignWe never figured out how they died.</key>
@@ -9538,7 +9538,7 @@
   </entry>
   <entry>
     <key>SpyIt’s one-way communication. That none of the villagers know about. &lt;size=20&gt;Because I’ve never told them&lt;/size&gt;.</key>
-    <value>Alde bakarreko komunikazioa. Herritarrek hari buruz ez dakitena. &lt;size=20&gt;Ez niolako inoiz inori esan.</value>
+    <value>Alde bakarreko komunikazioa. Herritarrek hari buruz ez dakitena. &lt;size=20&gt;Ez niolako inoiz inori esan.&lt;/size&gt;.</value>
   </entry>
   <entry>
     <key>MusicProbably. Or actually, definitely. The other travelers carry instruments, so they don’t bother whistling.</key>
@@ -9574,7 +9574,7 @@
   </entry>
   <entry>
     <key>MarlDon’t tell them about this, but sometimes I throw my Little Scout down to make sure Marl isn’t doing anything stupid. I worry that big tree in the village wouldn’t stand a chance otherwise.</key>
-    <value>Ez iezaiozu hau esan, baina batzuetan nire esploratzaile txikia botatzen dut Marga ergelkeriarik egiten ari ez dela ziurtatzeko. Bestela, sentitzen dut herriko zuhaitz handiak ez luke bizirik iraungo.</value>
+    <value>Ez iezaiozu hau esan, baina batzuetan nire esploratzaile txikia botatzen dut Marga ergelkeriarik egiten ari ez dela ziurtatzeko. Bestela, sentitzen dut herriko zuhaitz handiak ez lukeela bizirik iraungo.</value>
   </entry>
   <entry>
     <key>SecondaryHi again. Can’t get enough of the moon? ...I’m kidding.</key>
@@ -11096,7 +11096,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityThere's a huge Nomai city just to the north of Riebeck's campsite.</key>
-      <value>Nomai hiri handi bat dago Riebeckeko kanpamendutik iparraldera.</value>
+      <value>Nomai hiri handi bat dago Riebecken kanpamendutik iparraldera.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging CityA Nomai city suspended beneath Brittle Hollow's northern glacier. The city is divided vertically into four districts.</key>
@@ -11520,7 +11520,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-      <value>Metalezko tramankulu batzuk aurkitu nituen tailerrean, ezkutuko materiaz inguraturik.</value>
+      <value>Metalezko tramankulu batzuk aurkitu nituen tailerrean, mamu-materiaz inguraturik.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide Reel</key>
@@ -14702,7 +14702,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>963</key>
-      <value>ARRISKUA: EZKUTUKO MATERIA GERTU</value>
+      <value>ARRISKUA: MAMU-MATERIA GERTU</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>964</key>
@@ -14970,7 +14970,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1036</key>
-      <value>Erdi lo egin</value>
+      <value>Lo egin</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1037</key>
