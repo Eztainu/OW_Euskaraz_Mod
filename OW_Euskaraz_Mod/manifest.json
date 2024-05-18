@@ -4,7 +4,7 @@
   "author": "Eztainu",
   "name": "OW_Euskaraz_Mod",
   "uniqueName": "Eztainu.OW_Euskaraz_Mod",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "owmlVersion": "2.11.1",
   "dependencies": [ "xen.LocalizationUtility" ]
 }
