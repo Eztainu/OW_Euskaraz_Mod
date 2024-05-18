@@ -5,7 +5,7 @@
 			How can the &lt;color=lightblue&gt;Eye&lt;/color&gt; be older than the universe itself?
 		</key>
     <value>
-			Nola izan daiteke &lt;color=lightblue&gt;Begia&lt;/color&gt; unibertso bera baino zaharragoa izatea?
+			Nola izan daiteke &lt;color=lightblue&gt;Begia&lt;/color&gt; unibertsoa bera baino zaharragoa izatea?
 		</value>
   </entry>
   <entry>
@@ -21,7 +21,7 @@
 			The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed.
 		</key>
     <value>
-			Hasiera batean, unibertsoa imajinaezin bero eta dentsoa zen. Lehenagotik zerbait existituko balitz suntsitua izango litzake.
+			Hasiera batean, unibertsoa imajinaezin bero eta dentsoa zen. Lehenagotik zerbait existituko balitz suntsitua izango litzakeen.
 		</value>
   </entry>
   <entry>
@@ -34,7 +34,7 @@
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; requires a powerful, highly advanced warp core. How should we obtain it?</key>
-    <value>&lt;color=orange&gt;«Errauts Biki» proiekturako&lt;/color&gt;, distortsio nukleo indartsu eta aurreratu bat behar da. Nola lor genezake?</value>
+    <value>&lt;color=orange&gt;«Errauts Biki» proiekturako&lt;/color&gt; distortsio nukleo indartsu eta aurreratu bat behar da. Nola lor genezake?</value>
   </entry>
   <entry>
     <key>Solution 2: We could craft a new advanced warp core inspired by the &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core.</key>
@@ -5422,7 +5422,7 @@
 			MELORAE: We have found an enormous cavern at the end of this passage that appears promising! I believe we could construct long-term shelter there.
 		</key>
     <value>
-			MELORAE: Haitzulo handi bat aurkitu dugu etorkizun handiko pasabide honen amaieran! Han aterpe iraunkor bat eraiki genezakeela uste dut.
+			MELORAE: Etorkizun handiko haitzulo handi bat aurkitu dugu pasabide honen amaieran! Han aterpe iraunkor bat eraiki genezakeela uste dut.
 		</value>
   </entry>
   <entry>
@@ -6185,7 +6185,7 @@
   </entry>
   <entry>
     <key>SignDay 48: Still not picking up Riebeck’s banjo from Brittle Hollow. I’m sure they’re fine, but I’ll feel better once I can hear their music.</key>
-    <value>48. eguna: Riebeckeko banjoa entzun gabe jarraitzen dut Sakan Hauskorretik. Ondo egongo da, baina hobeto sentituko naiz berriro bere musika entzuten dudanean.</value>
+    <value>48. eguna: Riebecken banjoa entzun gabe jarraitzen dut Sakan Hauskorretik. Ondo egongo da, baina hobeto sentituko naiz berriro bere musika entzuten dudanean.</value>
   </entry>
   <entry>
     <key>SignDay 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is &lt;i&gt;not&lt;/i&gt; subtle from an aerial perspective.</key>
@@ -6193,11 +6193,11 @@
   </entry>
   <entry>
     <key>SignDay 55: Banjo music coming in loud and clear today! Sounds like Riebeck’s doing okay. That oaf, I was worried!</key>
-    <value>55. eguna: Banjoaren musika indartsu eta argi entzuten da gaur! Riebeck ondo dagoela dirudi. Hainbeste kezkatu nintzen!</value>
+    <value>55. eguna: Banjoaren musika indartsu eta argi entzuten da gaur! Riebeck ondo dagoela dirudi. Oso kezkatua nengoen!</value>
   </entry>
   <entry>
     <key>SignDay 63: Today I thought I heard something... strange. I don’t know — it was probably nothing.</key>
-    <value>63. eguna: Gaur zerbait entzun dudala iruditu zait. Zerbait... arraagoa. Ez dakit... Baliteke ezer ez izatea.</value>
+    <value>63. eguna: Gaur zerbait entzun dudala iruditu zait. Zerbait... arraroagoa. Ez dakit... Baliteke ezer ez izatea.</value>
   </entry>
   <entry>
     <key>SignDay 70: No, it’s back again today, too. Something strange is coming from Timber Hearth.</key>
@@ -9522,7 +9522,7 @@
   </entry>
   <entry>
     <key>ForgetI don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place.</key>
-    <value>Ez diet errua botatzen. Hasteko, beti leku berean nagoenez, ez naiz beste bidaiariak bezain sarri harremanetan jartzen.</value>
+    <value>Ez diet errurik leporatzen. Hasteko, beti leku berean nagoenez, ez naiz beste bidaiariak bezain sarri harremanetan jartzen.</value>
   </entry>
   <entry>
     <key>ForgetAnd it’s not so bad up here, really. At least it’s peaceful and quiet. You don’t always get that in our solar system.</key>
@@ -10417,7 +10417,7 @@
   </entry>
   <entry>
     <key>SignalscopeKid4Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</key>
-    <value>Bart gauean Riebeckeko banjoa entzun nuen Sakan Hauskorretik zetorrela. Espero dut horrek ondo dagoela esan nahi izatea.</value>
+    <value>Bart gauean Riebecken banjoa entzun nuen Sakan Hauskorretik zetorrela. Espero dut horrek ondo dagoela esan nahi izatea.</value>
   </entry>
   <entry>
     <key>SignalscopeKid4I can hear different planets, too! It depends on what time of day or night it is, since different planets are in the sky at different times.</key>
