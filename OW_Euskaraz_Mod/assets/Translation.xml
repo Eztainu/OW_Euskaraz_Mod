@@ -3838,7 +3838,7 @@
   </entry>
   <entry>
     <key>StatueEyesOpenShould someone tell Gabbro? Or maybe Riebeck? Oh, stars, this is so exciting, it’s making my stomach hurt!</key>
-    <value>Gabrori jakinarazi behar diogu? Edo Riebeckeri? A, izarrengatik... Hau guztia hain da zirraragarria, urdaileko mina ematen dit.</value>
+    <value>Gabrori jakinarazi behar diogu? Edo Riebecki? A, izarrengatik... Hau guztia hain da zirraragarria, urdaileko mina ematen dit.</value>
   </entry>
   <entry>
     <key>HalStatueEyesOpenHal! Can you help me translate this new alien language I found?</key>
@@ -4784,7 +4784,7 @@
   </entry>
   <entry>
     <key>RAMIE: The &lt;color=orange&gt;Vessel&lt;/color&gt;’s warp core is broken, at best (recall those present when the &lt;color=orange&gt;Vessel&lt;/color&gt; crashed said it sustained lethal injuries). There is no guaranteed reward for this risk.</key>
-    <value>RAMIE: &lt;color=orange&gt;Ontziaren&lt;/color&gt; distortsio nukleoa matxuratua dago, kasurik hoberenean (gogora ezazue &lt;color=orange&gt;Ontzia&lt;/color&gt; lurra jo zuenean bertan zeudenak kalte terminala sufritu zuela). Arrisku honek ez du irabazia bermatzen.</value>
+    <value>RAMIE: &lt;color=orange&gt;Ontziaren&lt;/color&gt; distortsio nukleoa matxuratua dago, kasurik hoberenean (gogora ezazue &lt;color=orange&gt;Ontzia&lt;/color&gt; lurra jo zuenean kalte terminala sufritu zuela). Arrisku honek ez du irabazia bermatzen.</value>
   </entry>
   <entry>
     <key>CONOY: Perhaps we could still repair it. My grandmother told me there was little time to assess the nature or extent of the damage.</key>
@@ -4961,7 +4961,7 @@
   </entry>
   <entry>
     <key>THATCH: Everyone brace yourselves, swiftly! The &lt;color=lightblue&gt;volcanic moon&lt;/color&gt; has returned!</key>
-    <value>THATCH: Presta zaitezte segituan! &lt;color=lightblue&gt;ilargi bolkanikoa&lt;/color&gt; itzuli da!</value>
+    <value>THATCH: Presta zaitezte segituan! &lt;color=lightblue&gt;Ilargi bolkanikoa&lt;/color&gt; itzuli da!</value>
   </entry>
   <entry>
     <key>THATCH: Be cautious of falling ash and debris!</key>
@@ -5077,7 +5077,7 @@
   </entry>
   <entry>
     <key>PLUME: Given concerns about our settlement’s stability, where should we construct a new, less temporary shelter?</key>
-    <value>PLUME: Gure kokalekuaren egonkortasunari buruzko erreserbak direla eta, non eraiki beharko genuke hain hornitzailea ez den aterpe bat?</value>
+    <value>PLUME: Gure kokalekuaren egonkortasunari buruzko erreserbak direla eta, non eraiki aterpe egonkorrago bat?</value>
   </entry>
   <entry>
     <key>THATCH: We need to stay close to the &lt;color=orange&gt;escape pod&lt;/color&gt; so Filix can monitor incoming messages. We can’t be rescued if we aren’t present to respond.</key>
@@ -14598,7 +14598,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>937</key>
-      <value>Lasaitzen duen itzala</value>
+      <value>Itzal lasaia</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>938</key>
@@ -14606,11 +14606,11 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>939</key>
-      <value>Baso zaharran</value>
+      <value>Antzinako soilunean</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>940</key>
-      <value>Iluntasuna amore eman ezean</value>
+      <value>Ilun dago beti</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>941</key>
@@ -14750,7 +14750,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>975</key>
-      <value>POPA KROSKOACASCO DE POPA</value>
+      <value>POPA KROSKOA</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>980</key>
