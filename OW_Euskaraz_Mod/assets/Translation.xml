@@ -323,7 +323,7 @@
   </entry>
   <entry>
     <key>SPIRE: Also I very much wanted to make a model.</key>
-    <value>SPIRE: Gainera, eredu bat sortzeko gogo handia nuen..</value>
+    <value>SPIRE: Gainera, eredu bat sortzeko gogo handia nuen.</value>
   </entry>
   <entry>
     <key>ILEX: Look out, look out below!</key>
@@ -896,7 +896,7 @@
   </entry>
   <entry>
     <key>CLARY: But... Pye and my sister have been gone for a long time now. They haven’t contacted me since descending below the surface, either.</key>
-    <value>CLARY: Baina... Pye eta nire arreba aspaldi joan ziren. Eta ez dira nirekin harremanetan jarri gainazalaren azpian sartu zirenetik..</value>
+    <value>CLARY: Baina... Pye eta nire arreba aspaldi joan ziren. Eta ez dira nirekin harremanetan jarri gainazalaren azpian sartu zirenetik.</value>
   </entry>
   <entry>
     <key>CLARY: Should I leave the &lt;color=orange&gt;shuttle&lt;/color&gt; to look for them? I want to follow protocol, but I don’t know what I’ll do if they aren’t well...</key>
@@ -920,7 +920,7 @@
   </entry>
   <entry>
     <key>PYE: Yes, but the exploration of the &lt;color=lightblue&gt;comet&lt;/color&gt; would be more difficult if we were without the &lt;color=orange&gt;shuttle&lt;/color&gt; until someone recalled it. Perhaps we shouldn’t have landed on the dark side of the &lt;color=lightblue&gt;comet&lt;/color&gt;...</key>
-    <value>PYE: Bai, baina &lt;color=lightblue&gt;kometaren&lt;/color&gt; esplorazioa zailagoa izango litzake &lt;color=orange&gt;transbordadorerik gabe&lt;/color&gt; norbaitek deitu arte. Agian ez genuen &lt;color=lightblue&gt;kometaren&lt;/color&gt; alde ilunean lurreratu behar...</value>
+    <value>PYE: Bai, baina &lt;color=lightblue&gt;kometaren&lt;/color&gt; esplorazioa zailagoa izango litzake &lt;color=orange&gt;transbordadorerik gabe&lt;/color&gt; egongo bagina norbaitek deitu arte. Agian ez genuen &lt;color=lightblue&gt;kometaren&lt;/color&gt; alde ilunean lurreratu behar...</value>
   </entry>
   <entry>
     <key>CLARY: Suppose one of us remained in the &lt;color=orange&gt;shuttle&lt;/color&gt; to keep it warm and continue monitoring the surface.</key>
@@ -1658,7 +1658,7 @@
 			Deep space anomaly matching all known criteria for the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt; found by probe &lt;FirstLoop&gt;.
 		</key>
     <value>
-			&lt;FirstLoop&gt;. zundak anomalia bat aurkitu zuen espazio sakonean, &lt;color=lightblue&gt;unibertsoaren Begiko&lt;/color&gt; irizpide ezagun guztiekin bat datorrena..
+			&lt;FirstLoop&gt;. zundak anomalia bat aurkitu zuen espazio sakonean, &lt;color=lightblue&gt;unibertsoaren Begiko&lt;/color&gt; irizpide ezagun guztiekin bat datorrena.
 		</value>
   </entry>
   <entry>
@@ -1726,7 +1726,7 @@
   </entry>
   <entry>
     <key>CYCAD: If they're sealing off all entrances, I hope they've planned a-&lt;i&gt;core&lt;/i&gt;-dingly!</key>
-    <value>CYCAD: Sarrera guztiak ixten badituzte, ezingo da &lt;i&gt;nukleora&lt;/i&gt; gehiagotan sartu!</value>
+    <value>CYCAD: Sarrera guztiak ixten badituzte, ez &lt;i&gt;nukleo&lt;/i&gt;r egon nahi!</value>
   </entry>
   <entry>
     <key>OENO: I thought you had forbidden your apprentice from making puns, Coleus.</key>
@@ -1774,7 +1774,7 @@
   </entry>
   <entry>
     <key>MeetGabbro3FSo hey, don’t freak out or anything, but lately I keep, like, dying repeatedly. I dunno, it’s pretty weird.</key>
-    <value>Eh... ez beldurtu, baina uste dut azkenaldi honetan... behin eta berriz hiltzen ari naizela. Ez dakit, oso arraroa da..</value>
+    <value>Eh... ez beldurtu, baina uste dut azkenaldi honetan... behin eta berriz hiltzen ari naizela. Ez dakit, oso arraroa da.</value>
   </entry>
   <entry>
     <key>MeetGabbro3FWhat about you? Have you died lately, or is it just me?</key>
@@ -1810,7 +1810,7 @@
   </entry>
   <entry>
     <key>Gabbro3F_5It looks like you and I are the only ones who can tell that time’s gone all weird. I tried radioing Hornfels and asking if they’d died, too, but they thought I was being metaphorical.</key>
-    <value>Badirudi zu eta biok bakarrik konturatzen garela denbora gauza arraroak egiten ari dela. Corneri deitu nion irratitik eta galdetu nion ea bera ere hil zen, baina metafora bat erabiltzen ari zela pentsatu zuen.</value>
+    <value>Badirudi zu eta biok bakarrik konturatzen garela denborak gauza arraroak egiten ari dela. Corneri deitu nion irratitik eta galdetu nion ea bera ere hil zen, baina metafora bat erabiltzen ari nintzela pentsatu zuen.</value>
   </entry>
   <entry>
     <key>Gabbro3F_5Even if I tell Hornfels about the time loop, they never remember by the next one. They don’t realize anything’s different.</key>
@@ -1842,7 +1842,7 @@
   </entry>
   <entry>
     <key>Gabbro3F_SecondaryHave you ever watched a cyclone for so long, it started to hypnotize you? I’m telling you, they’ll put you in a trance if you stare at ’em long enough.</key>
-    <value>Inoiz geratu zara zikloi bati begira hainbeste denboraz, eta azkenean hipnotizatu egin zara? Zin dagizut, behar adina begiratzen badiezu, trantzean geratuko zarela.</value>
+    <value>Inoiz geratu zara zikloi bati begira hainbeste denboraz azkenean hipnotizatu egin zarela? Zin dagizut, behar adina begiratzen badiezu, trantzean geratuko zarela.</value>
   </entry>
   <entry>
     <key>GabbroMenuHow’s space treating you?</key>
@@ -1906,7 +1906,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_3FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
-    <value>Estatuaren Uharteko hondartzan nengoen distira guztia gertatu zenean. Hondartza ona da horrelako zerbait gertatzeko. 10 puntutik 7 ematen dizkiot Gabroren erlaxazio-eskalan.</value>
+    <value>Estatuaren Uharteko hondartzan nengoen distira guztia gertatu zenean. Hondartza toki ona da horrelako zerbait gertatzeko. 10 puntutik 7 ematen dizkiot Gabroren erlaxazio-eskalan.</value>
   </entry>
   <entry>
     <key>WhereToExplore_3FIf you feel like checking out Statue Island, it’s the one with two islands connected by a natural rock arch. Well... mostly connected, anyway. You’ll see.</key>
@@ -1926,7 +1926,7 @@
   </entry>
   <entry>
     <key>ThisPlanet_3FAs for land masses, I’ve counted four islands, including this one. There’s also the one with that Nomai statue I saw on the beach.</key>
-    <value>Lur-masei buruz... lau irla kontatu nituenean, hau barne. Hondartzan ikusi nuen Nomai estatua duena ere hor dago.</value>
+    <value>Lur-masei buruz... lau irla ziren kontatu nituenean, hau barne. Hondartzan ikusi nuen Nomai estatua duena ere hor dago.</value>
   </entry>
   <entry>
     <key>ThisPlanet_3FYou’ve seen the cyclones? Yeah, they’re hard to miss. They’ll toss up everything in their path, islands included. Little tip — if you get picked up, try to land in water. Less likely to kill you.</key>
@@ -2127,7 +2127,7 @@
   </entry>
   <entry>
     <key>FoundSomething6BaseNice. Did I look busy in it? I hope I looked busy.</key>
-    <value>Primeran. Lanean ari nintzela zirudien? Espero dut baietz..</value>
+    <value>Primeran. Lanean ari nintzela zirudien? Espero dut baietz.</value>
   </entry>
   <entry>
     <key>FoundSomething6Must have been from the time Hornfels sent me to check on the deep space satellite. They thought Ol’ Spacey might be malfunctioning, but I couldn’t find a single thing wrong with it.</key>
@@ -2163,7 +2163,7 @@
   </entry>
   <entry>
     <key>FoundSomething6aAnyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body.</key>
-    <value>Azken finean, Cosmo zaharra bisitatu nahi baduzu, modurik azkarrena zure espazio-ontzira igo eta eguzki-sistemaren mapa erabiltzea da, satelitea helburu gisa finkatzeko, edozein gorputz astralentzat egingo zenukeen bezala..</value>
+    <value>Azken finean, Cosmo zaharra bisitatu nahi baduzu, modurik azkarrena zure espazio-ontzira igo eta eguzki-sistemaren mapa erabiltzea da, satelitea helburu gisa finkatzeko, edozein gorputz astralentzat egingo zenukeen bezala.</value>
   </entry>
   <entry>
     <key>FoundSomething6bI mean, the satellite’s not &lt;i&gt;super&lt;/i&gt; old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this.</key>
@@ -2171,7 +2171,7 @@
   </entry>
   <entry>
     <key>FoundSomething6bOl’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body.</key>
-    <value>Cosmo zaharrari bisitariak gustatzen zaizkio, badakizu! Aurkitzeko modurik azkarrena zure espazio-ontzira igotzea da, eta eguzki-sistemaren mapa erabiltzea satelitea helburu gisa finkatzeko, edozein gorputz astralentzat egingo zenukeen bezala</value>
+    <value>Cosmo zaharrari bisitariak gustatzen zaizkio, badakizu! Aurkitzeko modurik azkarrena zure espazio-ontzira igotzea da, eta eguzki-sistemaren mapa erabiltzea satelitea helburu gisa finkatzeko, edozein gorputz astralentzat egingo zenukeen bezala.</value>
   </entry>
   <entry>
     <key>FoundSomething6cYeah, um, the one that’s standard with all our spacesuits? The one you have with you at all times that opens with the press of a button? …That map?</key>
@@ -3710,7 +3710,7 @@
   </entry>
   <entry>
     <key>CONOY: My gratitude for your interesting question! This is exciting: Spire constructed a model of &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; here at &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;’s &lt;color=orange&gt;Southern Observatory&lt;/color&gt;, and it's revealed how an object might sink below the current.</key>
-    <value>CONOY: Nire esker ona galdera interesgarri honengatik! Hau zirraragarria da: Spirek &lt;color=lightblue&gt;Erraldoiaren Leizearen&lt;/color&gt; modelo bat sortu zuen hemen aquí, &lt;color=lightblue&gt;Sakan Hauskorreko&lt;/color&gt; &lt;color=orange&gt;Hegoaldeko Behatokian&lt;/color&gt;, eta objetu bat korrontean nola hondora daiteke erakusten du.</value>
+    <value>CONOY: Nire esker ona galdera interesgarri honengatik! Hau zirraragarria da: Spirek &lt;color=lightblue&gt;Erraldoiaren Leizearen&lt;/color&gt; modelo bat sortu zuen hemen, &lt;color=lightblue&gt;Sakan Hauskorreko&lt;/color&gt; &lt;color=orange&gt;Hegoaldeko Behatokian&lt;/color&gt;, eta objetu bat korrontean nola hondora daiteke erakusten du.</value>
   </entry>
   <entry>
     <key>CASSAVA: Conoy, I’m unable to grasp the answer by looking through the &lt;color=orange&gt;projection pool&lt;/color&gt;. If I visit the &lt;color=orange&gt;observatory&lt;/color&gt;, would you kindly explain?</key>
@@ -3726,7 +3726,7 @@
   </entry>
   <entry>
     <key>COLEUS: I was upstairs testing the &lt;color=orange&gt;Eye signal locator&lt;/color&gt;, and it can hear and follow the signals from the &lt;color=lightblue&gt;sun&lt;/color&gt;, &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, and &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
-    <value>COLEUS: Goian egon naiz &lt;color=orange&gt;Begia seinalatzeko gailua&lt;/color&gt; probatzen. &lt;color=lightblue&gt;Eguzkiaren&lt;/color&gt;, &lt;color=lightblue&gt;Erraldoiaren Leizearen&lt;/color&gt;, eta &lt;color=lightblue&gt;Sakan Hauskorraren&lt;/color&gt;, seinaleak entzun eta jarrai ditzake.</value>
+    <value>COLEUS: Goian egon naiz &lt;color=orange&gt;Begia seinale-aurkitzailea&lt;/color&gt; probatzen. &lt;color=lightblue&gt;Eguzkiaren&lt;/color&gt;, &lt;color=lightblue&gt;Erraldoiaren Leizearen&lt;/color&gt; eta &lt;color=lightblue&gt;Sakan Hauskorraren&lt;/color&gt;, seinaleak entzun eta jarrai ditzake.</value>
   </entry>
   <entry>
     <key>COLEUS: However, something strange is happening when I ask the &lt;color=orange&gt;Eye signal locator&lt;/color&gt; to follow the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal: The device’s indicator rotates wildly and never points to just one direction.</key>
@@ -3734,7 +3734,7 @@
   </entry>
   <entry>
     <key>THATCH: This is a curious result. It’s possible the &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped calling out its signal.</key>
-    <value>THATCH: Emaitza deigarria da. Posible litzake &lt;color=lightblue&gt;Begiak&lt;/color&gt; bere seinalea bidantzeari utzi izatea.</value>
+    <value>THATCH: Emaitza deigarria da. Posible litzake &lt;color=lightblue&gt;Begiak&lt;/color&gt; bere seinalea bidaltzeari utzi izatea.</value>
   </entry>
   <entry>
     <key>FILIX: I see! I most likely calibrated the locator incorrectly. Privet (my apprentice) and I will make adjustments and try again.</key>
@@ -4343,7 +4343,7 @@
   </entry>
   <entry>
     <key>CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch &lt;i&gt;me&lt;/i&gt; from the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;.</key>
-    <value>CASSAVA: Daz, inoiz Mallow eta Avens elkarrekin daudenean bezain likatsua izateko gertu egongo banintz, &lt;i&gt;neu&lt;/i&gt; &lt;color=orange&gt;Zunden Kanoi Orbitaletik&lt;/color&gt; jaurtitzeko baimena duzu .</value>
+    <value>CASSAVA: Daz, inoiz Mallow eta Avens elkarrekin daudenean bezain likatsua izateko gertu egongo banintz, &lt;i&gt;neu&lt;/i&gt; &lt;color=orange&gt;Zunden Kanoi Orbitaletik&lt;/color&gt; jaurtitzeko baimena duzu.</value>
   </entry>
   <entry>
     <key>CASSAVA: Our next step will be to send Privet up to the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; to install the probe tracking system.</key>
@@ -4459,7 +4459,7 @@
   </entry>
   <entry>
     <key>THATCH: Where should this new, more sophisticated locator be built? It may need to be larger than this &lt;color=orange&gt;Eye signal locator&lt;/color&gt; is.</key>
-    <value>THATCH: Non eraiki beharko genuke sofistikatuagoa den lokalizatzaile berria? Agian, &lt;color=orange&gt;Begi Seinale Lokalizatzaile&lt;/color&gt; hau baino handiagoa izan beharko du.</value>
+    <value>THATCH: Non eraiki beharko genuke sofistikatuagoa den lokalizatzaile berria? Agian, &lt;color=orange&gt;Begia seinale-aurkitzaile&lt;/color&gt; hau baino handiagoa izan beharko du.</value>
   </entry>
   <entry>
     <key>PLUME: The southern glacier on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; has ample available space. I could construct a new building to house this proposed locator.</key>
@@ -5265,7 +5265,7 @@
   </entry>
   <entry>
     <key>We observed the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal in our travels, and followed it here to find its source. test</key>
-    <value>Geure bidaietan, &lt;color=lightblue&gt;Begiaren&lt;/color&gt; seinalea antzeman genuen, eta honeraino jarraitu genuen bere iturria aurkitzeko. </value>
+    <value>Geure bidaietan, &lt;color=lightblue&gt;Begiaren&lt;/color&gt; seinalea antzeman genuen, eta honaino jarraitu genuen bere iturria aurkitzeko. </value>
   </entry>
   <entry>
     <key>What we know is this: The source of the signal (which we have chosen to call the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;) is older than this universe itself. The rest, we have yet to learn. test</key>
@@ -5733,7 +5733,7 @@
   </entry>
   <entry>
     <key>PHLOX: As an example, if we were to send my memories back in time, is that the same as sending “me” back in time (not my physical body, but my essence)?</key>
-    <value>PHLOX: Adibidez, nire oroitzapenak denboran atzera bidaliko bagenitu, neu denboran atzera bidaltzea (nire esentzia, ez nire gorputz fisikoa) gauza bera litzateke?</value>
+    <value>PHLOX: Adibidez, nire oroitzapenak denboran atzera bidaliko bagenitu, neu denboran atzera bidaltzearen (nire esentzia, ez nire gorputz fisikoa) gauza bera litzateke?</value>
   </entry>
   <entry>
     <key>DAZ: I imagine they’re two different actions.</key>
@@ -5900,7 +5900,7 @@
   </entry>
   <entry>
     <key>AVENS: I can posit with nearly 100 percent certainty our friends have accounted for our natures, so I suggest we do!</key>
-    <value>AVENS: Ia % 100 ziur nago gure lagunek gure izaera kontuan hartu dutela. Ez ikusiarena egitea iradokitzen dut!</value>
+    <value>AVENS: Ia %100 ziur nago gure lagunek gure izaera kontuan hartu dutela. Ez ikusiarena egitea iradokitzen dut!</value>
   </entry>
   <entry>
     <key>AVENS: Giving the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; all the power it can structurally withstand creates the greatest chance of finding the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;.</key>
@@ -6076,7 +6076,7 @@
 			PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; slightly &lt;i&gt;before&lt;/i&gt; departing from the &lt;color=orange&gt;White Hole Station&lt;/color&gt;.
 		</key>
     <value>
-			PYE: Ramie eta biok bidali zenizkigun erregistroak aztertu ditugu, Poke. Dirudienez, Nomaiak distortsio-hartzailera iritsi zirela &lt;color=lightblue&gt;Sakan Hauskorrera&lt;/color&gt; &lt;color=orange&gt;Zulo Zuriaren Estaziotik&lt;/color&gt; irten baino pixka bat lehenago.
+			PYE: Ramie eta biok bidali zenizkigun erregistroak aztertu ditugu, Poke. Badirudi Nomaiak &lt;color=lightblue&gt;Sakan Hauskorreko&lt;/color&gt; distortsio-hartzailera iritsi zirela &lt;color=orange&gt;Zulo Zuriaren Estaziotik&lt;/color&gt; irten baino pixka bat lehenago.
 		</value>
   </entry>
   <entry>
@@ -6100,7 +6100,7 @@
 			PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; before he or she ever stepped into the teleporter? The implications are absurd.
 		</key>
     <value>
-			PYE: Ramieri esan nion bezala, neurketak ezin dira zehatzak izan. Nola irits daiteke Nomai bat lt;color=lightblue&gt;Sakan Hauskorrera&lt;/color&gt; teletransportadorea erabili gabe? Ondorioak zentzugabeak dira.
+			PYE: Ramieri esan nion bezala, neurketak ezin dira zehatzak izan. Nola irits daiteke Nomai bat &lt;color=lightblue&gt;Sakan Hauskorrera&lt;/color&gt; teletransportagailua erabili baino lehen? Ondorioak zentzugabeak dira.
 		</value>
   </entry>
   <entry>
@@ -6805,11 +6805,11 @@
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingSo this is some kind of Nomai “locator.” It can point out the different planets - which is incredibly cool, by the way - but from what little I can understand of the writing here, I think it was built to try to find something specific?</key>
-    <value>Orduan, hau Nomai "lokalizatzaile" bat da. Planeta desberdinak apunta ditzakezu (zerbait bikaina), baina ohar hauetatik uler dezakedanez, uste dut zerbait espezifikoa aurkitzeko eraiki zutela..</value>
+    <value>Orduan, hau Nomai "lokalizatzaile" bat da. Planeta desberdinak apunta ditzakezu (zerbait bikaina), baina ohar hauetatik uler dezakedanez, uste dut zerbait espezifikoa aurkitzeko eraiki zutela.</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingI’m not sure. I also was able to translate something about the south pole of Brittle Hollow, so I’ll fly there to see if I can learn more.</key>
-    <value>Zalantzak ditut. Hondonada hauskorraren hego poloari buruzko zerbait ere itzuli ahal izan nuen, eta, beraz, haraino joango naiz hegaz, ea informazio gehiago lortzen dudan.</value>
+    <value>Zalantzak ditut. Sakan hauskorraren hego poloari buruzko zerbait ere itzuli ahal izan nuen, eta, beraz, haraino joango naiz hegaz, ea informazio gehiago lortzen dudan.</value>
   </entry>
   <entry>
     <key>Riebeck_AttlerockRecordingYep. Just gonna get back in the ol’ ship and take off. Totally safe... Mostly safe. &lt;size=20&gt;Oh, stars above&lt;/size&gt;...</key>
@@ -6817,7 +6817,7 @@
   </entry>
   <entry>
     <key>RiebecksJournalThe journey here from the south pole has been, um... I’m going to go with “harrowing”, because of the, um, all of the meteors. But hey, at least I made it here unconcussed and not on fire!</key>
-    <value>Hego polotik egindako bidaia izan da, e... "Larrituta" esango dut zeuden meteorito guztiengatik. Baina gauza ona da pieza batean itzuli nintzela eta sutan atera gabe!</value>
+    <value>Hego polotik egindako bidaia izan da, e... "Larria" esango dut zeuden meteorito guztiengatik. Baina gauza ona da osorik itzuli nintzela eta sutan atera gabe!</value>
   </entry>
   <entry>
     <key>RiebecksJournalOkay, let’s see... I poked around a little, and there’s some sort of old Nomai path that starts across from my campsite, inside the ruined building with trees growing out of it.</key>
@@ -7883,7 +7883,7 @@
   </entry>
   <entry>
     <key>RiebeckIntro...But that’s enough about me and my problems. You didn’t come all this way to listen to me blather, did you! Heh, that’d be... yeah.</key>
-    <value>Utzi egiten diot nitaz eta nire arazoez hitz egiteari. Ez dut uste honaino etorri zarenik hitz egiten entzutera! Je, hori litzateke... Bai.</value>
+    <value>Utzi egigo diot nitaz eta nire arazoez hitz egiteari. Ez dut uste honaino etorri zarenik ni hitz egiten entzutera! Je, hori litzateke... Bai.</value>
   </entry>
   <entry>
     <key>Riebeck1Hi! ...What’s up?</key>
@@ -7943,7 +7943,7 @@
   </entry>
   <entry>
     <key>RiebeckExploreGood luck with exploring. Um, if you learn anything about the Nomai, I’d love to hear it, &lt;size=20&gt;if it’s not too much trouble?&lt;/size&gt;</key>
-    <value>ure bidaian zortea izan dezazun. Ah, eta Nomaiei buruz zerbait jakingo bazenu, gustura entzungo nizuke, &lt;size=20&gt;traba handirik ez bada...&lt;/size&gt;</value>
+    <value>Izan zortea zure bidaian. Ah, eta Nomaiei buruz zerbait jakingo bazenu, gustura entzungo nizuke, &lt;size=20&gt;traba handirik ez bada...&lt;/size&gt;</value>
   </entry>
   <entry>
     <key>RiebeckLearnedOh, cool! &lt;Pause/&gt;Um, what is it?</key>
@@ -7999,7 +7999,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_1This is an amazing discovery. I hope we can find out more about how and why the Nomai arrived here!</key>
-    <value>Aurkikuntza harrigarria da. Espero dut gehiago jakin ahal izatea nola eta zergatik iritsi ziren honaino..</value>
+    <value>Aurkikuntza harrigarria da. Espero dut gehiago jakin ahal izatea nola eta zergatik iritsi ziren hona.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_2You did?! That, that’s incredible, congratulations!</key>
@@ -8023,7 +8023,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_3It really makes you appreciate living somewhere like Timber Hearth. You know, somewhere that isn’t being constantly bombarded with meteors and rocks and stuff.</key>
-    <value>Sutondo bezalako leku batean, non meteoroek, harkaitzek eta antzeko gauzek etengabe bonbardatzen ez gaituzten lekua, bizitzea estimatzea eragiten du.</value>
+    <value>Sutondo bezalako leku batean, non meteoroek, harkaitzek eta antzeko gauzek etengabe bonbardatzen ez gaituzten lekuan, bizitzea estimatzea eragiten du.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
@@ -8047,7 +8047,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_5That means there were two groups of Nomai — one that lived on Ember Twin, and one that lived here on Brittle Hollow. But they must have traveled around the solar system, since Nomai writing can be found on other planets, too.</key>
-    <value>Horrek esan nahi du bi Nomai talde zeudela: bata Txingar Bikian bizi zena eta bestea hemen bizi zena, Hondonada hauskorrean. Baina eguzki-sistema osoan zehar bidaiatuko zuten, beste planeta batzuetan ere Nomai idazkiak baitaude.</value>
+    <value>Horrek esan nahi du bi Nomai talde zeudela: bata Txingar Bikian bizi zena eta bestea hemen bizi zena, Sakan hauskorrean. Baina eguzki-sistema osoan zehar bidaiatuko zuten, beste planeta batzuetan ere Nomai idazkiak baitaude.</value>
   </entry>
   <entry>
     <key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
@@ -8417,7 +8417,7 @@
 			COLEUS: We plan to reexamine the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt;. (Maybe our friendly rock will meet us down there!)
 		</key>
     <value>
-			COLEUS: Iparraldeko &lt;color=orange&gt;Aintzira Kobazulo&lt;/color&gt; berriro aztertzeko asmoa dugu. (Agian han elkartuko gara gure lagun harkaitzarekin!).
+			COLEUS: Iparraldeko &lt;color=orange&gt;Aintzira Kobazuloa&lt;/color&gt; berriro aztertzeko asmoa dugu. (Agian han elkartuko gara gure lagun harkaitzarekin!).
 		</value>
   </entry>
   <entry>
@@ -8514,7 +8514,7 @@
   </entry>
   <entry>
     <key>DAZ: He has outdone himself again, hasn’t he? And now that we have our first successful pairing, we can test my memory storage prototype.</key>
-    <value>DAZ: Berriro gainditu zuen bere burua, ezta? Eta orain, lehen lotura arrakastatsua dugunez, nire memoria biltegiratzeko prototipoa froga dezakegu.</value>
+    <value>DAZ: Berriro gainditu du bere burua, ezta? Eta orain, lehen lotura arrakastatsua dugunez, nire memoria biltegiratzeko prototipoa froga dezakegu.</value>
   </entry>
   <entry>
     <key>DAZ: Each statue will send a single Nomai’s memories to his or her own storage unit within &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;.</key>
@@ -8718,7 +8718,7 @@
   </entry>
   <entry>
     <key>PHLOX: If anything goes wrong with the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, the statues (and their masks) will make us aware of the situation and enable us to fix it. Otherwise, it would be possible for us to remain permanently unaware of the problem.</key>
-    <value>PHLOX: &lt;color=orange&gt;Errauts Biki Proiektuan&lt;/color&gt; zerbait gaizki ateratzen bada, estatuek (eta haien maskarek) abisatuko gaituzte eta egoera konpontzeko aukera emango digute. Bestela, posible izango litzateke betirako arazoataz ez jabetze.</value>
+    <value>PHLOX: &lt;color=orange&gt;Errauts Biki Proiektuan&lt;/color&gt; zerbait gaizki ateratzen bada, estatuek (eta haien maskarek) abisatuko gaituzte eta egoera konpontzeko aukera emango digute. Bestela, posible izango litzateke betirako arazoaz ez jabetzea.</value>
   </entry>
   <entry>
     <key>RAMIE: I hadn’t thought of that! What a profoundly horrific fate that would be.</key>
@@ -8903,7 +8903,7 @@
   </entry>
   <entry>
     <key>Chert2So where did they live? Not on the surface, clearly. Ember Twin is full of cave systems, though - maybe the answer lies underground?</key>
-    <value>Non bizi ziren orduan? Argi eta garbi, gainazalean ez. Brasa Bikia kobazulo sistemaz beteta dago, beraz... agian erantzuna lurpean dago?</value>
+    <value>Non bizi ziren orduan? Argi eta garbi, gainazalean ez. Txingar Bikia kobazulo sistemaz beteta dago, beraz... agian erantzuna lurpean dago?</value>
   </entry>
   <entry>
     <key>Chert3On a scale of one to dead, I’d give it a seven or eight. Awfully pretty, though.</key>
@@ -8915,7 +8915,7 @@
   </entry>
   <entry>
     <key>Chert3Oh, if you’d like to see something interesting, check out the other Twin once a little more of its sand drains off. I promise you won’t be disappointed.</key>
-    <value>Ah, zerbait interesgarria ikusi nahi baduzu, konprobatu beste Bikia hondarra pixka bat gehiago isuri duenean. Hitzematen dizut ez dizula huts egingo.</value>
+    <value>Ah, zerbait interesgarria ikusi nahi baduzu, konproba ezazu beste Bikia hondarra pixka bat gehiago isuri duenean. Hitzematen dizut aho bete hortz geratuko zarela.</value>
   </entry>
   <entry>
     <key>Chert4Supernovae look like extra bright stars to the naked eye, but if you zoom in with your signalscope you can tell that they're actually enormous explosions.</key>
@@ -8991,7 +8991,7 @@
   </entry>
   <entry>
     <key>FoundSomething2The planet I mentioned may have been frozen solid, or just partially made of ice, like a much colder Giant’s Deep - it’s hard to say. It used to be the fifth planet in our solar system.</key>
-    <value>Agian aipatu dudan planeta izoztuta egon da, edo zati batean izotzez osaturik, Erraldoiaren Leizearen antzera baina hotzagoa, nahiz eta oso zaila izan ziur jakitea. Gure eguzki-sistemako bosgarren planeta izan ohi zen.</value>
+    <value>Agian aipatu dudan planeta izoztuta egon zen, edo partziakli izotzez osaturik, Erraldoiaren Leizearen antzera, baina hotzagoa, nahiz eta oso zaila izan ziur jakitea. Gure eguzki-sistemako bosgarren planeta izan ohi zen.</value>
   </entry>
   <entry>
     <key>FoundSomething2You’ll notice, of course, that there’s no such planet now. In its place is Dark Bramble, which - how to put this - grew into the space the fifth planet used to occupy.</key>
