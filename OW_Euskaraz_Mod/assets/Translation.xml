@@ -70,7 +70,7 @@
   </entry>
   <entry>
     <key>MITIS: This is true; however, it’s knowledge we have little hope of recovering. It would be best to relearn, I think.</key>
-    <value>MITIS: Egia da; hala ere, ziur aski berreskuratu ezin dugun ezagutza da. Uste dut onena berriro ikastea litzatekeela..</value>
+    <value>MITIS: Egia da; hala ere, ziur aski berreskuratu ezin dugun ezagutza da. Uste dut onena berriro ikastea litzatekeela.</value>
   </entry>
   <entry>
     <key>POKE: I would very much like to craft such a powerful core! More relevantly, I believe the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt; crew and I could recreate the basic design.</key>
@@ -347,7 +347,7 @@
   </entry>
   <entry>
     <key>PLUME: Of note: Be sure not to wander far from here. Though this area is somewhat unstable, it’s safer than any we’ve found so far.</key>
-    <value>PLUME: Kontuan hartzekoa: ez zaitezte hemendik gehiegi urrundu. Ezegonkor samarra izan arren, eremu hau orain arte aurkitutakoak baino seguruagoa da..</value>
+    <value>PLUME: Kontuan hartzekoa: ez zaitezte hemendik gehiegi urrundu. Ezegonkor samarra izan arren, eremu hau orain arte aurkitutakoak baino seguruagoa da.</value>
   </entry>
   <entry>
     <key>PLUME: The temporary settlement is finished, but remember to be cautious of falling rocks and dust created by meteor impacts.</key>
@@ -379,7 +379,7 @@
   </entry>
   <entry>
     <key>BELLS: If you’re here to make your first pilgrimage to the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, you are almost prepared to set out on this deeply significant journey. Before you do, pause, and remember your history.</key>
-    <value>BELLS: &lt;color=lightblue&gt;Ilargi Kuantikorako&lt;/color&gt; lehen erromesaldia egitera etorri bazinen, gertu zaude bidaia oso esanguratsu hau hasteko. Baina aurretik, egin etenaldi bat eta gogoratu istorioa.</value>
+    <value>BELLS: &lt;color=lightblue&gt;Ilargi Kuantikorako&lt;/color&gt; lehen erromesaldia egitera etorri bazara, gertu zaude bidaia oso esanguratsu hau hasteko. Baina aurretik, egin etenaldi bat eta gogoratu istorioa.</value>
   </entry>
   <entry>
     <key>BELLS: We make this journey not only for ourselves, but also to honor the members of our clan who came before us: those who, after the crash that brought them to this star system, became stranded on &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt; and on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;, with no communication between these two groups of survivors.</key>
@@ -387,11 +387,11 @@
   </entry>
   <entry>
     <key>BELLS: These Nomai looked upward from two different planets and saw the same wandering moon visiting their skies. It was this moon (the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;) that kept their curiosity alive during this long period of hardship.</key>
-    <value>BELLS: Nomai hauek bi planeta ezberdinetatik gora begiratu zuten eta ilargi alderrai bera ikusi zuten beren zeruetan. Ilargi hau &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt;) izan zen bere jakin-mina piztu zuena ezbeharren aldian.</value>
+    <value>BELLS: Nomai hauek bi planeta ezberdinetatik gora begiratu zuten eta ilargi alderrai bera ikusi zuten beren zeruetan. Ilargi hau (&lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt;) izan zen bere jakin-mina piztu zuena ezbeharren aldian.</value>
   </entry>
   <entry>
     <key>BELLS: After the two divided groups were able to reunite, it became our clan’s united goal to find and visit the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. This took time, and many Nomai who dreamed of seeing the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; died before we discovered how to make the journey.</key>
-    <value>BELLS: Bi taldeak elkartzea lortu zutenean, gure klanaren helburu komuna &lt;color=lightblue&gt;Ilargia Kuantikoa&lt;/color&gt; aurkitzea eta bisitatzea izan zen. Enpresa honek denbora asko behar izan zuen, eta &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt; ikustea amestu zuten Nomai asko bidaia nola egin jakin baino lehen hil ziren.</value>
+    <value>BELLS: Bi taldeak elkartzea lortu zutenean, gure klanaren helburu komuna &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt; aurkitzea eta bisitatzea izan zen. Enpresa honek denbora asko behar izan zuen, eta &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt; ikustea amestu zuten Nomai asko bidaia nola egin jakin baino lehen hil ziren.</value>
   </entry>
   <entry>
     <key>BELLS: When you reach the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, recall these Nomai, and carry their curiosity onward with you.</key>
@@ -499,7 +499,7 @@
 			BELLS: Welcome, Solanum! Your arrival here means you’ve completed your preparations on &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt; and are ready to depart for the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;.
 		</key>
     <value>
-			BELLS: Ongi etorri, Solanum! Zeure etorrerak &lt;color=lightblue&gt;Erraldoiaren Leizean&lt;/color&gt; prestaketak amaitu zenituela esan nahi du eta &lt;color=lightblue&gt;Ilargi Kuantikoar&lt;/color&gt; joateko prest zaudela.
+			BELLS: Ongi etorri, Solanum! Zeure etorrerak &lt;color=lightblue&gt;Erraldoiaren Leizean&lt;/color&gt; prestaketak amaitu zenituela esan nahi du eta &lt;color=lightblue&gt;Ilargi Kuantikora&lt;/color&gt; joateko prest zaudela.
 		</value>
   </entry>
   <entry>
@@ -507,7 +507,7 @@
 			BELLS: On your pilgrimage, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; will carry you, just as it carried me and many in our clan before me, to the moon’s sixth and most secret location.
 		</key>
     <value>
-			BELLS: Zeure erromesaldia bitartean, &lt;color=lightblue&gt;Ilargi Koantikoak&lt;/color&gt; eramango zaitu, neu eta neure klaneko asko eraman gintuen bezalaba, ilargiko seigarren eta kokapen sekretuenera.
+			BELLS: Zeure erromesaldia bitartean, &lt;color=lightblue&gt;Ilargi Koantikoak&lt;/color&gt; eramango zaitu, neu eta neure klaneko asko eraman gintuen bezala, ilargiko seigarren eta kokapen sekretuenera.
 		</value>
   </entry>
   <entry>
@@ -515,7 +515,7 @@
 			BELLS: You’ll be aided in your pilgrimage by the shrine our clan built on the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;. But remember this final rule: To explore the sixth location, the shrine must be on the moon’s north pole.
 		</key>
     <value>
-			BELLS: Neure klanak &lt;color=lightblue&gt;Ilargi Koantikoan&lt;/color&gt; eraiki zuen santutegiak eromesaldian lagunduko zaitu. Baina gogora ezazu azken legea:Seigarren kokapeta esploratzeko, santutegia ilargiaren ipar poloan egon behar da.
+			BELLS: Neure klanak &lt;color=lightblue&gt;Ilargi Koantikoan&lt;/color&gt; eraiki zuen santutegiak eromesaldian lagunduko zaitu. Baina gogora ezazu azken legea:Seigarren kokapena esploratzeko, santutegia ilargiaren ipar poloan egon behar da.
 		</value>
   </entry>
   <entry>
@@ -834,11 +834,11 @@
   </entry>
   <entry>
     <key>CLARY: Yes, but your voices are faint. I fear we will lose communication entirely if you continue any deeper.</key>
-    <value>CLARY: Bai, baina ozta-ozta. Beldur naiz, barneratzen jarraitzen badute, komunikazioa galtzea.</value>
+    <value>CLARY: Bai, baina ozta-ozta. Beldur naiz, barneratzen jarraitzen bazarete, komunikazioa galtzea.</value>
   </entry>
   <entry>
     <key>POKE: Keep the &lt;color=orange&gt;shuttle&lt;/color&gt; warm for us, Clary. We’ll return the moment we identify the source of the energy readings!</key>
-    <value>POKE: &lt;color=orange&gt;Transbordador&lt;/color&gt; bero mantendu, Clary. energia seinaleen iturria identifikatu bezain laster itzuliko gara</value>
+    <value>POKE: &lt;color=orange&gt;Transbordadorea&lt;/color&gt; bero mantendu, Clary. Energia seinaleen iturria identifikatu bezain laster itzuliko gara.</value>
   </entry>
   <entry>
     <key>CLARY: I understand, but... Be cautious, both of you.</key>
@@ -984,7 +984,7 @@
   </entry>
   <entry>
     <key>Confused1If you're me, then I'm as confused as you are.</key>
-    <value>Zu ni bazara, jakingo duzu nolako nahasmendua sentitzen dudan..</value>
+    <value>Zu ni bazara, jakingo duzu nolako nahasmendua sentitzen dudan.</value>
   </entry>
   <entry>
     <key>SelfConfused1Do you think we have the same memories?</key>
@@ -1016,7 +1016,7 @@
   </entry>
   <entry>
     <key>WokeUp1CMakes sense to me, seeing how jumping into the black hole is definitely what created two of us.</key>
-    <value>Zentzua du niretzat, uste badut zulo beltzera salto egiteak bikoiztu egin gintuela..</value>
+    <value>Zentzua du niretzat, uste badut zulo beltzera salto egiteak bikoiztu egin gintuela.</value>
   </entry>
   <entry>
     <key>Excited1Sure, two of us is great and all, but is it the &lt;i&gt;greatest&lt;/i&gt;? What about the day we, you know... what about that one?</key>
@@ -1032,7 +1032,7 @@
   </entry>
   <entry>
     <key>Excited2AWhat? No! No, I'm talking about the &lt;i&gt;other&lt;/i&gt; one.</key>
-    <value>¿Zer? Ez! Ez, &lt;i&gt;besteaz&lt;/i&gt; hari naiz hizketan.</value>
+    <value>Zer? Ez! Ez, &lt;i&gt;besteaz&lt;/i&gt; hari naiz hizketan.</value>
   </entry>
   <entry>
     <key>SelfExcited2AOH. Yep, that makes way more sense.</key>
@@ -1040,15 +1040,15 @@
   </entry>
   <entry>
     <key>Excited2BHaha, I know, right? But today is probably the next greatest day of our life after that one.</key>
-    <value>Kar, kar, bai, badakit, ¿Ezta? Baina, seguraski, gaur izango da geure bizitzako bigarren egunik hoberena egun horren ostean.</value>
+    <value>Kar, kar, bai, badakit, Ezta? Baina, seguraski, gaur izango da geure bizitzako bigarren egunik hoberena egun horren ostean.</value>
   </entry>
   <entry>
     <key>SelfExcited2BWait, can you read my mind?</key>
-    <value>Itxaron, ¿neure burua irakur dezakezu?</value>
+    <value>Itxaron, neure burua irakur dezakezu?</value>
   </entry>
   <entry>
     <key>SelfExcited2BWhat other memories do you have?</key>
-    <value>¿Zer beste gogorapen dituzu?</value>
+    <value>Zer beste gogorapen dituzu?</value>
   </entry>
   <entry>
     <key>SelfExcited2BThink it's okay there's two of us?</key>
@@ -1072,11 +1072,11 @@
   </entry>
   <entry>
     <key>SelfExcited3AWait, can you read my mind?</key>
-    <value>Itxaron, ¿neure burua irakur dezakezu?</value>
+    <value>Itxaron, neure burua irakur dezakezu?</value>
   </entry>
   <entry>
     <key>SelfExcited3AWhat other memories do you have?</key>
-    <value>¿Zer beste gogorapen dituzu?</value>
+    <value>Zer beste gogorapen dituzu?</value>
   </entry>
   <entry>
     <key>SelfExcited3AThink it's okay there's two of us?</key>
@@ -1084,7 +1084,7 @@
   </entry>
   <entry>
     <key>Memories0ALet's see... We should have all the same memories before the whole "going into space and becoming aware of the alien time loop" thing.</key>
-    <value>Ikus dezagun... Horren guztiaren aurretik, oroitzapen berberak izan beharko genituzke «espaziora joan eta estralurtarren debbora begiztaz ohartu» ri buruz..</value>
+    <value>Ikus dezagun... Horren guztiaren aurretik, oroitzapen berberak izan beharko genituzke «espaziora joan eta estralurtarren debbora begiztaz ohartu» ri buruz.</value>
   </entry>
   <entry>
     <key>Looped1I think so. I started this current loop by popping out of a white hole inside the Ash Twin Project.</key>
@@ -1217,7 +1217,7 @@
   </entry>
   <entry>
     <key>Segue2AQuickly changing the subject, you know how I - er, &lt;i&gt;we&lt;/i&gt; - jumped into the black hole that opened up at the end of the last time loop?</key>
-    <value>Bizkor gaiz aldatzen, ¿Badakizu nola ni... eeeh, &lt;i&gt;gu diot&lt;/i&gt;, azken begiztaren amaieran ireki genuen zulo beltzera salto egin genuen?</value>
+    <value>Bizkor gaiz aldatzen, Badakizu nola ni... eeeh, &lt;i&gt;gu diot&lt;/i&gt;, azken begiztaren amaieran ireki genuen zulo beltzera salto egin genuen?</value>
   </entry>
   <entry>
     <key>Segue2AWhat do you think would happen if you don't jump in this time?</key>
@@ -1293,7 +1293,7 @@
   </entry>
   <entry>
     <key>SelfMerge2ATruly, we are the Feldspar of weird time stuff.</key>
-    <value>Egia esan, denbora-arazo arraroen Feldespatoa gara..</value>
+    <value>Egia esan, denbora-arazo arraroen Feldespatoa gara.</value>
   </entry>
   <entry>
     <key>Merge2BThat's a good point.</key>
@@ -1309,7 +1309,7 @@
   </entry>
   <entry>
     <key>SelfMerge2BI'm no expert, but you seem pretty real to me.</key>
-    <value>Ez naiz horretan espezialista, baina nahiko erreala iruditzen zait..</value>
+    <value>Ez naiz horretan espezialista, baina nahiko erreala iruditzen zait.</value>
   </entry>
   <entry>
     <key>Merge2CI guess so!</key>
@@ -1453,7 +1453,7 @@
   </entry>
   <entry>
     <key>Selfshould be deadWe were disasterously unprepared for space.</key>
-    <value>Ez genekien nola mugitu espazioan..</value>
+    <value>Ez genekien nola mugitu espazioan.</value>
   </entry>
   <entry>
     <key>should be dead 2bTuff was right - I AM the worst.</key>
@@ -1490,7 +1490,7 @@
   </entry>
   <entry>
     <key>sun station 2That’s true. &lt;Pause&gt; I’m not sure how to factor that in.</key>
-    <value>Egia. &lt;Pause&gt; Ez dakit oso ondo nola aztertu..</value>
+    <value>Egia. &lt;Pause&gt; Ez dakit oso ondo nola aztertu.</value>
   </entry>
   <entry>
     <key>sun station 3Still, it’s kind of nice to get to say it out loud. Even if it’s just to ourself.</key>
@@ -1526,7 +1526,7 @@
   </entry>
   <entry>
     <key>CLARY: I enjoy precision as much as the next Nomai, but if, for example, a tower’s base were to shift even slightly, that tower might no longer align with its astral body.</key>
-    <value>CLARY: Edozein Nomaik bezala gozatzen dut zehaztasunaz, baina, adibidez, dorre baten oinarria apenas mugituko balitz, agian ezingo litzateke bere gorputz astralarekin lerrokatu.</value>
+    <value>CLARY: Edozein Nomaik bezala gozatzen dut zehaztasunaz, baina, adibidez, dorre baten oinarria pixkatxo bat mugituko balitz, agian ezingo litzateke bere gorputz astralarekin lerrokatu.</value>
   </entry>
   <entry>
     <key>POKE: We don’t need the alignment angle to be exact; it only needs to be within five degrees of the astral body’s center.</key>
@@ -1562,11 +1562,11 @@
   </entry>
   <entry>
     <key>CLARY: Poke, I’ll return to the &lt;color=orange&gt;forge&lt;/color&gt; shortly; I’m going to catch up to Root and help him deliver the first core to &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;, just to make sure Yarrow receives it.</key>
-    <value>CLARY: Poke, &lt;color=orange&gt;forjara&lt;/color&gt; itzuliko naiz laster. Root harrapatuko dut lehen nukleoa &lt;color=lightblue&gt;Errauts Bikietara&lt;/color&gt; ematen laguntzeko, eta ziurtatuko dut Yarrowek jasoko duela. Poke, regresaré a la &lt;color=orange&gt;forja&lt;/color&gt; en breve. Alcanzaré a Root para ayudarlo con la entrega del primer núcleo a &lt;color=lightblue&gt;Gemelo Ceniza&lt;/color&gt; y me aseguraré de que Yarrow lo reciba.</value>
+    <value>CLARY: Poke, &lt;color=orange&gt;forjara&lt;/color&gt; itzuliko naiz laster. Root harrapatuko dut lehen nukleoa &lt;color=lightblue&gt;Errauts Bikietara&lt;/color&gt; ematen laguntzeko, eta ziurtatuko dut Yarrowek jasoko duela.</value>
   </entry>
   <entry>
     <key>POKE: Of course you are.</key>
-    <value>POKE: Noski egingo duzula..</value>
+    <value>POKE: Noski egingo duzula.</value>
   </entry>
   <entry>
     <key>POKE: The tower designs in the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; reveal each receiver's location. Ask Yarrow; he is familiar with them.</key>
@@ -1628,11 +1628,11 @@
   </entry>
   <entry>
     <key>PHLOX: We can design each tower to visually reflect its warp destination!</key>
-    <value>PHLOX: Dorre bakoitza diseina dezakegu distortsioaren helmuga modu bisualean isla dezan..</value>
+    <value>PHLOX: Dorre bakoitza diseina dezakegu distortsioaren helmuga modu bisualean isla dezan.</value>
   </entry>
   <entry>
     <key>PHLOX: The &lt;color=orange&gt;Giant’s Deep tower&lt;/color&gt;, for instance, could resemble a cyclone. And we could model the &lt;color=orange&gt;Timber Hearth tower&lt;/color&gt; after a geyser mountain!</key>
-    <value>PHLOX: &lt;color=orange&gt;Erraldoiaren Leizeko dorrea&lt;/color&gt;, adibidez, zikloi baten antzekoa izan liteke. &lt;color=orange&gt;Sutondoko&lt;/color&gt; dorrea geiserr mendi baten antzera modelatuko dugu!</value>
+    <value>PHLOX: &lt;color=orange&gt;Erraldoiaren Leizeko dorrea&lt;/color&gt;, adibidez, zikloi baten antzekoa izan liteke. &lt;color=orange&gt;Sutondoko&lt;/color&gt; dorrea geiser mendi baten antzera modelatuko dugu!</value>
   </entry>
   <entry>
     <key>YARROW: My gratitude to those who noted my imprecise language! Yes, the &lt;color=lightblue&gt;sun&lt;/color&gt; is not a planet. I believe this has been sufficiently clarified (kindly stop reminding me!).</key>
@@ -1679,7 +1679,7 @@
   </entry>
   <entry>
     <key>CLARY: Don’t worry, love; Poke is only nervous. The core is extraordinary, and her design work is beautifully clever.</key>
-    <value>CLARY: Ez larritu, laztana. Poke urduri besterik ez dago. Nukleoa apartekoa da, eta egin zuen diseinua guztiz burutsua da..</value>
+    <value>CLARY: Ez larritu, laztana. Poke urduri besterik ez dago. Nukleoa apartekoa da, eta egin zuen diseinua guztiz burutsua da.</value>
   </entry>
   <entry>
     <key>POKE: The core’s durability could still be improved! I need more time!</key>
@@ -1762,7 +1762,7 @@
   </entry>
   <entry>
     <key>POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead.</key>
-    <value>POKE: Estazioa biraka dagoen bitartean gora begiratzen baduzu, ikusiko duzu lerrokadura gorputz astrala zuzenean gainean dagoenean gertatzen dela..</value>
+    <value>POKE: Estazioa biraka dagoen bitartean gora begiratzen baduzu, ikusiko duzu lerrokadura gorputz astrala zuzenean gainean dagoenean gertatzen dela.</value>
   </entry>
   <entry>
     <key>Gabbro</key>
@@ -1822,7 +1822,7 @@
   </entry>
   <entry>
     <key>Gabbro3F_5I was looking at it, and the statue opened its eyes and started glowing. It replayed my memories like it’d seen them through my own eyes, just like what happens each time I die.</key>
-    <value>Hari begira negoen, eta bat-batean estatuak begiak ireki eta diz-diz egiten hasi zen. Nire oroitzapenak neure begiez ikusiko banitu bezala errepikatzen nituen, hiltzen naizen bakoitzean gertatzen den bezala..</value>
+    <value>Hari begira negoen, eta bat-batean estatuak begiak ireki eta diz-diz egiten hasi zen. Nire oroitzapenak neure begiez ikusiko banitu bezala errepikatzen nituen, hiltzen naizen bakoitzean gertatzen den bezala.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3F_5That happened to me with the statue at the museum.</key>
@@ -1866,7 +1866,7 @@
   </entry>
   <entry>
     <key>GabbroGabbroMenuWhere’s your ship?</key>
-    <value>¿Non dago zeure espazio-ontzia?</value>
+    <value>Non dago zeure espazio-ontzia?</value>
   </entry>
   <entry>
     <key>GabbroGabbroMenuI found your ship!</key>
@@ -2212,7 +2212,7 @@
   </entry>
   <entry>
     <key>GabbroGabbro3T_3You’re taking this pretty well.</key>
-    <value>Oso ondo hartzen ari zara..</value>
+    <value>Oso ondo hartzen ari zara.</value>
   </entry>
   <entry>
     <key>GabbroGabbro3T_3What did you think it was?</key>
@@ -2244,7 +2244,7 @@
   </entry>
   <entry>
     <key>Gabbro3T_6I think that’s going to be my leading theory, but if you find out anything new about the statues or the time loop, let me know, okay? I’ll be here.</key>
-    <value>Uste dut hori izango dela nire hipotesi nagusia oraingoz, baina estatuei edo denbora begiztari buruz zerbait berria aurkitzen baduzu, abisatu, bai? Hemen egongo naiz..</value>
+    <value>Uste dut hori izango dela nire hipotesi nagusia oraingoz, baina estatuei edo denbora begiztari buruz zerbait berria aurkitzen baduzu, abisatu, bai? Hemen egongo naiz.</value>
   </entry>
   <entry>
     <key>Gabbro3T_SecondaryHey, my time buddy’s back!</key>
@@ -2413,7 +2413,7 @@
   </entry>
   <entry>
     <key>GabbroMainA few loops ago, a cyclone came by and tossed my little island into space. Dying like that was kind of unpleasant.</key>
-    <value>Hace algunos bucles, pasó un ciclón y arrojó mi islita al espacio. Morir de esa forma fue un poco desagradable.</value>
+    <value>Duela ziklo batzuk, zikloi bat pasa eta nire irlatxoa bota zuen espaziora. Modu horretan hiltzea desatsegina izan zen.</value>
   </entry>
   <entry>
     <key>GabbroMain_SecondaryHello again. ...Again.</key>
@@ -2473,7 +2473,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_mergeWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Zer gehiago, zer gehiago... ¿Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
+    <value>Zer gehiago, zer gehiago... Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
   </entry>
   <entry>
     <key>WhereToExplore_mergeI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -2688,7 +2688,7 @@
   </entry>
   <entry>
     <key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>¿&lt;i&gt;Seguru&lt;/i&gt; erretrokoheteak konpondu zenituela?</value>
+    <value>&lt;i&gt;Seguru&lt;/i&gt; erretrokoheteak konpondu zenituela?</value>
   </entry>
   <entry>
     <key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
@@ -2696,7 +2696,7 @@
   </entry>
   <entry>
     <key>SlateScientist1BDid... did I just... die?</key>
-    <value>¿Neu... neu... hil naiz?</value>
+    <value>Neu... neu... hil naiz?</value>
   </entry>
   <entry>
     <key>SlateScientist1BAll systems go!</key>
@@ -2708,7 +2708,7 @@
   </entry>
   <entry>
     <key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>¿&lt;i&gt;Seguru&lt;/i&gt; erretrokoheteak konpondu zenituela?</value>
+    <value>&lt;i&gt;Seguru&lt;/i&gt; erretrokoheteak konpondu zenituela?</value>
   </entry>
   <entry>
     <key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
@@ -2824,7 +2824,7 @@
   </entry>
   <entry>
     <key>SlateScientist3Wait, did I just &lt;i&gt;die&lt;/i&gt;, or...?</key>
-    <value>Itxaron une bat, ¿ez al naiz &lt;i&gt;hil&lt;/i&gt; edo...?</value>
+    <value>Itxaron une bat, ez al naiz &lt;i&gt;hil&lt;/i&gt; edo...?</value>
   </entry>
   <entry>
     <key>ScientistAnswer31Huh. Must be inhaling more fumes than I realized. That stuff is &lt;i&gt;potent&lt;/i&gt;.</key>
@@ -2892,7 +2892,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer35Well yeah, it’s a death-trap, but a really &lt;i&gt;powerful&lt;/i&gt; death trap. What, you suddenly care about safety &lt;i&gt;now&lt;/i&gt;?</key>
-    <value>Ba bai, tranpa hilgarria, baina &lt;i&gt;benetan indartsua&lt;/i&gt;. ¿&lt;i&gt;Bat batean&lt;/i&gt; segurtasuna inporta al zaizu?</value>
+    <value>Ba bai, tranpa hilgarria, baina &lt;i&gt;benetan indartsua&lt;/i&gt;. &lt;i&gt;Bat batean&lt;/i&gt; segurtasuna inporta al zaizu?</value>
   </entry>
   <entry>
     <key>ScientistAnswer36And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about.</key>
@@ -2900,7 +2900,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer37Had an exciting dream, did you?</key>
-    <value>Amets zirraragarria izan duzu, ¿eh?</value>
+    <value>Amets zirraragarria izan duzu, eh?</value>
   </entry>
   <entry>
     <key>ScientistAnswer37It’s not exactly &lt;i&gt;impossible&lt;/i&gt; for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose.</key>
@@ -2916,7 +2916,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer38You &lt;i&gt;do&lt;/i&gt; know you can use it as a light source, right? Stars above, please tell me you knew that.</key>
-    <value>&lt;i&gt;Badakizu&lt;/i&gt; argi iturri bezela erabil dezakezula, ¿ezta? Izarrengatik, esaidazu bazenekiela.</value>
+    <value>&lt;i&gt;Badakizu&lt;/i&gt; argi iturri bezela erabil dezakezula, ezta? Izarrengatik, esaidazu bazenekiela.</value>
   </entry>
   <entry>
     <key>ScientistAnswer39Oh yeah, the observatory has an exhibit about that.</key>
@@ -3064,7 +3064,7 @@
   </entry>
   <entry>
     <key>FeldsparFeldspar1Let me guess: anglerfish?</key>
-    <value>Utzidazu asmatzen: ¿Zapoak?</value>
+    <value>Utzidazu asmatzen: Zapoak?</value>
   </entry>
   <entry>
     <key>FeldsparFeldspar1Feldspar! You’re alive!</key>
@@ -3136,7 +3136,7 @@
   </entry>
   <entry>
     <key>Feldspar5...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy.</key>
-    <value>... Esan dudan bezala, lurra jo dut. Puuuuum! Nire espazio-ontzia zarata arraroak egiten hasi zen kolpearen ondoren, barrutik desarmatzen ari balitz bezala. Eta pentsatu nuen hori ezin zela ona izan. Zorionez, sistema elektrikoak txinpartak botatzen hasi aurretik irtetea lortu nuen.</value>
+    <value>... Esan dudan bezala, lurra jo nuen. Puuuuum! Nire espazio-ontzia zarata arraroak egiten hasi zen kolpearen ondoren, barrutik desarmatzen ari balitz bezala. Eta pentsatu nuen hori ezin zela ona izan. Zorionez, sistema elektrikoak txinpartak botatzen hasi aurretik irtetea lortu nuen.</value>
 
   </entry>
   <entry>
@@ -3145,7 +3145,7 @@
   </entry>
   <entry>
     <key>Feldspar5I camped out near where I crashed at first. I found this skeleton later — great find, would’ve been stupid not to use it.</key>
-    <value>Hasieran, talka gertatu zen lekutik gertu kanpatu nuen. Gero eskeleto hau aurkitu dut... Aurkikuntza handi bat, ezin nuen ez erabili.</value>
+    <value>Hasieran, talka gertatu zen lekutik gertu kanpatu nuen. Gero eskeleto hau aurkitu nuen... Aurkikuntza handi bat, ezin nuen ez erabili.</value>
   </entry>
   <entry>
     <key>Feldspar5So I moved my setup over here and planted my emergency tree seeds. Been here ever since!</key>
@@ -3177,7 +3177,7 @@
   </entry>
   <entry>
     <key>Feldspar5aBut after a while, I run into this huge anglerfish — you’ve seen ’em? Big gnarly things, and this was the biggest one I’ve ever seen. I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and...</key>
-    <value>Pero, poco después, me encontré con un rape enorme... ¿Has visto alguno? Son peces gigantes y desagradables, y este era el más grande que jamás había visto. Intenté algunas maniobras para quitármelo de encima, nada demasiado elaborado. Iba a toda velocidad cuando el pez me engancha y me arroja contra una hiedra y...</value>
+    <value>Baina, hortik gutxira, zapo erraldoi batekin topo egin nuen... Baten bat ikusi al duzu? Arrain erraldoiak dira eta nazkagarriak, eta hau zen inoiz ikusi nuen handiena. Maniobra batzuk egin nituen gainetik kentzeko, ezer ez oso landua. Ziztu bizian nindoan arrainak arrapatu zidanean eta huntz baten kontra bota zidan...</value>
   </entry>
   <entry>
     <key>Feldspar5bOh, this is a good story. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever been inside Dark Bramble, so I think, hey, let’s give that a try.</key>
@@ -3322,11 +3322,11 @@
   </entry>
   <entry>
     <key>FeldsparFishAs near as I can tell, this anglerfish must have been chewing on the vine and eaten a seed, and then the seed grew and grew in the poor fish’s stomach until... this happened.</key>
-    <value>Esango nuke zapoak huntzari kosk egin diola eta hazi bat irentsi duela. Gero hazia hazi eta hazi egin zen arrain gaixoaren urdailean... hau gertatu zen arte.</value>
+    <value>Esango nuke zapoak huntzari kosk egin ziola eta hazi bat irentsi zuela. Gero hazia hazi eta hazi egin zen arrain gaixoaren urdailean... hau gertatu zen arte.</value>
   </entry>
   <entry>
     <key>FeldsparFishGross, huh?</key>
-    <value>Nazkagarria, ¿eh?</value>
+    <value>Nazkagarria, eh?</value>
   </entry>
   <entry>
     <key>FeldsparFishThis skeleton was a good find. Keeps the fish away. See, they’re territorial, so they mostly avoid each other. That’s why I set up camp here.</key>
@@ -3334,7 +3334,7 @@
   </entry>
   <entry>
     <key>FeldsparCoreGiant’s Deep’s core, huh? Ahhh, that was a wild one.</key>
-    <value>Erraldoiaren Leizearen nukleoa, ¿eh? Ah... zoramen bat izan zen hura.</value>
+    <value>Erraldoiaren Leizearen nukleoa, eh? Ah... zoramen bat izan zen hura.</value>
   </entry>
   <entry>
     <key>FeldsparCoreBut since you’re asking, I gotta assume you haven’t made it down there yourself yet, right? If I tell you how, it kinda feels like cheating.</key>
@@ -3346,7 +3346,7 @@
   </entry>
   <entry>
     <key>FeldsparCore...On a &lt;i&gt;completely unrelated&lt;/i&gt; note, that sure was a big, hollow vine my ship crashed into.&lt;Pause=3&gt; Yep.</key>
-    <value>&lt;i&gt;Guztiz aparteko&lt;/i&gt; gaia, neure espazio-ontziak talka egin zuen huntza handi eta hutsa zen.&lt;Pause=3&gt; Bai.</value>
+    <value>&lt;i&gt;Guztiz aparteko&lt;/i&gt; gaia, neure espazio-ontziak huntz handi eta huts baten kontra talka egin zuen.&lt;Pause=3&gt; Bai.</value>
   </entry>
   <entry>
     <key>FeldsparCoreIf I were you, I’d go take a walk and see where it ends.</key>
@@ -3510,7 +3510,7 @@
   </entry>
   <entry>
     <key>FoundSomething5Ah, well, at least they didn’t eat me. All’s well that ends well, eh, hatchling?</key>
-    <value>Bueno, behintzat ez ninduten jan. Ondo dago amaitzen dena. ¿eh, txiki?</value>
+    <value>Bueno, behintzat ez ninduten jan. Ondo dago ondo amaitzen dena. eh, txiki?</value>
   </entry>
   <entry>
     <key>FoundSomething7You flew a Nomaian shuttle? You don’t say! How was it? How did it handle?</key>
@@ -3558,7 +3558,7 @@
   </entry>
   <entry>
     <key>Sign…Stars above, will you look at that. There’s Brittle Hollow. And look, look there, that’s Hollow’s Lantern! And there’s Giant’s Deep, and — and the Quantum Moon! I’m speechless, completely speechless.</key>
-    <value>… Izarrengatik, begira. Han dago Sakan Hauskorra. Eta begira, begira hor! Sakaneko Itsasargia da! Eta hor dago Erraldoiaren Leizea, eta Ilargia Kuantikoa! Ez dut hitzik. Ezta bat ere.</value>
+    <value>… Izarrengatik, begira. Han dago Sakan Hauskorra. Eta begira, begira hor! Sakaneko Itsasargia da! Eta hor dago Erraldoiaren Leizea, eta Ilargi Kuantikoa! Ez dut hitzik. Ezta bat ere.</value>
   </entry>
   <entry>
     <key>SignEvery single astral body in our magnificent solar system, looking stunning from every angle in each of these three images. And in color, no less! Now this is art. I could stare at these photos forever. Doesn’t Timber Hearth look tiny from —</key>
@@ -3762,7 +3762,7 @@
   </entry>
   <entry>
     <key>Friend1aJust think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! &lt;Pause&gt;...Oh, geez. &lt;i&gt;Do not break it.&lt;/i&gt;</key>
-    <value>Imajina ezazu: nahi duzun edozein Nomai testu itzuli ahal izango duzu, non zauden kontuan hartu gabe. Ordu asko sartu genituen tresna horretan; beraz, saiatu ez hondatzen, ¿bai? Kar, kar. &lt;Pause&gt;... Ay, ene. &lt;i&gt;Ez suntsitu.&lt;/i&gt;</value>
+    <value>Imajina ezazu: nahi duzun edozein Nomai testu itzuli ahal izango duzu, non zauden kontuan hartu gabe. Ordu asko sartu genituen tresna horretan; beraz, saiatu ez hondatzen, bai? Kar, kar. &lt;Pause&gt;... Ay, ene. &lt;i&gt;Ez suntsitu.&lt;/i&gt;</value>
   </entry>
   <entry>
     <key>Friend1a...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are &lt;i&gt;you&lt;/i&gt; feeling?</key>
@@ -3862,7 +3862,7 @@
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhere on Giant’s Deep would I find Gabbro?</key>
-    <value>¿Erraldoiaren Leizeko zein tokitan aurki dezaket Gabro?</value>
+    <value>Erraldoiaren Leizeko zein tokitan aurki dezaket Gabro?</value>
   </entry>
   <entry>
     <key>HalFriendNot5_TO_CHANGEWhere did this statue come from?</key>
@@ -3981,7 +3981,7 @@
 			ANNONA: You have keen eyes, my friend. So this moon travels to a total of five locations, not four.
 		</key>
     <value>
-			ANNONA: Begi zorrotzak dituzu, lagun. Orduan, ilargi honek bost kokapenetara bidaiatzen du, ez laura..
+			ANNONA: Begi zorrotzak dituzu, lagun. Orduan, ilargi honek bost kokapenetara bidaiatzen du, ez laura.
 		</value>
   </entry>
   <entry>
@@ -4010,7 +4010,7 @@
   </entry>
   <entry>
     <key>
-			Melorae: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
+			MELORAE: If you’ve come here to look for Coleus, this is where we were when he vanished. He’s been missing for two days now!
 		</key>
     <value>
 			MELORAE: Coleusen bila etorri bazara, hemen geunden desagertu zenean. Bi egun igaro dira desagertu zenetik!
@@ -4018,7 +4018,7 @@
   </entry>
   <entry>
     <key>
-			Annona: Your strange, wandering rock friend is here, though Coleus isn’t.
+			ANNONA: Your strange, wandering rock friend is here, though Coleus isn’t.
 		</key>
     <value>
 			ANNONA: Zure lagun arraroa, arroka alderraia, hemen dago, baina Coleus ez.
@@ -4026,7 +4026,7 @@
   </entry>
   <entry>
     <key>
-			Melorae: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
+			MELORAE: Coleus and I observed this unusual-looking rock shard (and several smaller rocks) in at least two other caverns. I’m unsure if this is relevant.
 		</key>
     <value>
 			MELORAE: Coleusek eta biok arroka-itxurako zati bitxi hau (eta beste harri txikiago batzuk) gutxienez beste bi haitzulotan ikusi dugu. Ez dakit hau garrantzitsua izango den.
@@ -4042,7 +4042,7 @@
   </entry>
   <entry>
     <key>
-			Melorae: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
+			MELORAE: We were examining the different rocks. I recall Coleus standing on the largest one (the wandering rock). I was taking notes, and then my lantern died.
 		</key>
     <value>
 			MELORAE: Arrokak aztertzen ari ginen. Coleus handienaren gainean zegoen (harkaitz alderraia). Oharrak hartzen ari nintzen, eta bat-batean nire farola itzali egin zen.
@@ -4050,7 +4050,7 @@
   </entry>
   <entry>
     <key>
-			Melorae: When I lit it again, Coleus and the rock were both gone.
+			MELORAE: When I lit it again, Coleus and the rock were both gone.
 		</key>
     <value>
 			MELORAE: Berriro piztu nuenean, ez zegoen ez Coleusen ez harkaitzaren arrastorik.
@@ -4115,12 +4115,12 @@
   </entry>
   <entry>
     <key>RAMIE: The &lt;color=orange&gt;Southern Observatory&lt;/color&gt; is asking if creating a 22 minute interval is possible (that is, to have something arrive 22 minutes before it is actually sent through the warp).</key>
-    <value>RAMIE: &lt;color=orange&gt;Hegoaldeko Behatokiak&lt;/color&gt; galdetzen du ea posible den 22 minutuko tarte bat sortzea (hau da, zerbait iristea distortsioaren bidez benetan bidali baino 22/minutu lehenago).</value>
+    <value>RAMIE: &lt;color=orange&gt;Hegoaldeko Behatokiak&lt;/color&gt; galdetzen du ea posible den 22 minutuko tarte bat sortzea (hau da, zerbait iristea distortsioaren bidez benetan bidali baino 22 minutu lehenago).</value>
 
   </entry>
   <entry>
     <key>RAMIE: We’ve learned the negative interval of time between departure and arrival can be increased by adding more energy to the warp core. Problematically, the energy required to extend the interval increases at an exponential rate.</key>
-    <value>RAMIE: Konturatzen gara partida hasi eta iritsi arteko denbora-tarte negatiboa handitu egin daitekeela distortsio-nukleoari energia gehiago gehituz. Arazoa da tarteak zabaltzeko behar den energia esponentzialki handitzen dela.</value>
+    <value>RAMIE: Konturatzen gara irteera eta iritsi arteko denbora-tarte negatiboa handitu egin daitekeela distortsio-nukleoari energia gehiago gehituz. Arazoa da tarteak zabaltzeko behar den energia esponentzialki handitzen dela.</value>
   </entry>
   <entry>
     <key>PYE: Hypothesis: Creating a 22-minute-long interval is possible, but we are currently unable to generate the necessary energy.</key>
@@ -4197,7 +4197,7 @@
 			SECCA: We’ve held out as long as we could here, but this pod’s supply of breathable air is nearly depleted, and the anglerfish attack more and more frequently.
 		</key>
     <value>
-			SECCA: Hemen ahal izan dugun guztia jasaten dugu, baina kapsularen aire arnasgarriaren hornidura agortzeke dago, eta zapoek gero eta sarriago erasotzen digute.
+			SECCA: Hemen ahal izan dugun guztia jasaten dugu, baina kapsularen aire arnasgarriaren hornidura agortzeke dago, eta zapoek gero eta sarriago erasotzen gaituzte.
 		</value>
   </entry>
   <entry>
@@ -4213,7 +4213,7 @@
 			ESCALL: Secca, is the message finished? The &lt;color=orange&gt;Vessel&lt;/color&gt;’s beacon is already growing fainter; it will be gone in a matter of hours. We need to leave here, quickly.
 		</key>
     <value>
-			ESCALL: Secca, mezu hau amaiturik dago? &lt;color=orange&gt;Ontziaren&lt;/color&gt; baliza ahultzen doa; ordu batzuen ostean, guztiz itzaliko da. Hemendik oraintxe bertan joan behar garaDebemos irnos de aquí ahora mismo.
+			ESCALL: Secca, mezu hau amaiturik dago? &lt;color=orange&gt;Ontziaren&lt;/color&gt; baliza ahultzen doa; ordu batzuen ostean, guztiz itzaliko da. Hemendik oraintxe bertan joan behar gara.
 		</value>
   </entry>
   <entry>
@@ -4560,7 +4560,7 @@
   </entry>
   <entry>
     <key>YARROW: Today we finished the excavation of &lt;color=lightblue&gt;Ash Twin&lt;/color&gt;. Here, in this space we carved, we will craft our most ambitious project yet: the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt;, powerful enough to send information back in time.</key>
-    <value>YARROW: Gaur &lt;color=lightblue&gt;Errauts Bikiko&lt;/color&gt; indusketa amaitu dugu. Hemen, irekitzen dugun espazio honetan, inoizko asmo handieneko enpresa burutuko dugu: el &lt;color=orange&gt;Errauts Biki Proiektua&lt;/color&gt;, iraganera informazioa bidaltzeko beharrezko potentzia duela.</value>
+    <value>YARROW: Gaur &lt;color=lightblue&gt;Errauts Bikiko&lt;/color&gt; indusketa amaitu dugu. Hemen, irekitzen dugun espazio honetan, inoizko asmo handieneko enpresa burutuko dugu: &lt;color=orange&gt;Errauts Biki Proiektua&lt;/color&gt;, iraganera informazioa bidaltzeko beharrezko potentzia duena.</value>
   </entry>
   <entry>
     <key>COLEUS: We’ve also finished relocating all subterranean plants we met while digging.</key>
@@ -4576,7 +4576,7 @@
   </entry>
   <entry>
     <key>YARROW: Poke just sent the warp core for the final tower to us from the &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;. Now &lt;color=lightblue&gt;Ash Twin&lt;/color&gt; can be connected with &lt;color=lightblue&gt;Giant’s Deep&lt;/color&gt;, where Cassava is working with Avens to craft the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;, and where Phlox is sculpting the memory statues.</key>
-    <value>YARROW: Pokek azken dorrerako distortsio-nukleoa bidali digu &lt;color=orange&gt;Zulo Beltzaren Forjatik&lt;/color&gt; . Orain, &lt;color=lightblue&gt;Errauts Bikia&lt;/color&gt; &lt;color=lightblue&gt;Erraldoiaren Leizearekin&lt;/color&gt; konekta daiteke, non Cassava eta Avens &lt;color=orange&gt;Zunden Kanoi Orbitala&lt;/color&gt; eta Phlox estatua mnemonikoak zizelkatzen ari diren.</value>
+    <value>YARROW: Pokek azken dorrerako distortsio-nukleoa bidali digu &lt;color=orange&gt;Zulo Beltzaren Forjatik&lt;/color&gt;. Orain, &lt;color=lightblue&gt;Errauts Bikia&lt;/color&gt; &lt;color=lightblue&gt;Erraldoiaren Leizearekin&lt;/color&gt; konekta daiteke, non Cassava eta Avens &lt;color=orange&gt;Zunden Kanoi Orbitala&lt;/color&gt; eta Phlox estatua mnemonikoak zizelkatzen ari diren.</value>
   </entry>
   <entry>
     <key>CASSAVA: Hypothesis: It was not by accident the core of our warp tower was the last to be forged.</key>
@@ -4596,7 +4596,7 @@
   </entry>
   <entry>
     <key>YARROW: But then, if anyone can goad a device into exploding, that, too, is likely Avens. Perhaps I should check in with the &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt; crew in the interest of safety.</key>
-    <value>YARROW: Por otra parte, es probable que tampoco haya nadie como Avens para forzar un dispositivo hasta hacerlo estallar. Quizá debería comunicarme con el equipo del &lt;color=orange&gt;Cañón de Sondas Orbital&lt;/color&gt; por cuestiones de seguridad.</value>
+    <value>YARROW: Bestalde, litekeena da Avens bezalakorik ere ez egotea gailu bat leherrarazteko. Agian &lt;color=orange&gt;Zunden Kanoi Orbitaleko&lt;/color&gt; taldearekin hitz egin beharko nuke segurtasun kontuengatik.</value>
   </entry>
   <entry>
     <key>YARROW: Would it help to remind Avens that Mallow (his love) will be one of the Nomai aboard the cannon, or is Mallow part of the problem?</key>
@@ -5977,7 +5977,7 @@
   </entry>
   <entry>
     <key>YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable.</key>
-    <value>YARROW: Phlox eta Daz gaur amaitu dira estatua mnemonikoekin, eta benetan apartekoak dira.</value>
+    <value>YARROW: Phlox eta Daz gaur amaitu dute estatua mnemonikoekin, eta benetan apartekoak dira.</value>
   </entry>
   <entry>
     <key>YARROW: When the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; succeeds (or in the event it fails), the memory statues will activate, allowing us to gather more data before we shut down the project.</key>
@@ -6012,7 +6012,7 @@
 			YARROW: I confess, I’m deeply curious about what you and Poke found on the &lt;color=orange&gt;White Hole Station&lt;/color&gt; that started this project. Could I visit sometime to learn more?
 		</key>
     <value>
-			YARROW: Aitortzen dut jakin-min handia dudala proiektuari hasiera eman zion &lt;color=orange&gt;Zulo Zuriaren Estazioan&lt;/color&gt; Pokek eta zuk aurkitu zutenari buruz. Bisita nezake inoiz?
+			YARROW: Aitortzen dut jakin-min handia dudala proiektuari hasiera eman zion &lt;color=orange&gt;Zulo Zuriaren Estazioan&lt;/color&gt; Pokek eta zuk aurkitu zenutenari buruz. Bisita nezake inoiz?
 		</value>
   </entry>
   <entry>
@@ -7639,7 +7639,7 @@
   </entry>
   <entry>
     <key>SignOf all the lifeforms who will perish in the oncoming death of the universe, we will miss the anglerfish the least.</key>
-    <value>Unibertsoaren etorkizuneko iraungipenean hilko diren bizimodu guztietatik gutxien harrituko duguna zapoa izango da.</value>
+    <value>Unibertsoaren etorkizuneko iraungipenean hilko diren bizimodu guztietatik faltan gutxien botako duguna zapoa izango da.</value>
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</key>
@@ -7755,11 +7755,11 @@
   </entry>
   <entry>
     <key>FailureWow, that was just like the time the external fuel tanks exploded on reentry!</key>
-    <value>Guau! Kanpoko erregai-tankeak lehertu zirenean izan zen!</value>
+    <value>Guau, hori kanpoko erregai tankeak lehertu zirenean bezala izan da!</value>
   </entry>
   <entry>
     <key>FailureYou’ll... you’ll be okay flying the big one, right?</key>
-    <value>Dana... ondo aterako da handiarekin, bai?</value>
+    <value>Dana... ondo aterako da handiarekin, ezta?</value>
   </entry>
   <entry>
     <key>SuccessWhat a landing! I guess that’s why Slate lets you fly the real thing, huh?</key>
@@ -8051,7 +8051,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_6A pilgrimage to the Quantum Moon? The Nomai mentioned the Quantum Moon in a lot of their writing, so it was clearly special to them. And um, special enough to make a trip there by themselves!</key>
-    <value>Ilargi Kuantikorako erromesaldia? Nomaiek Ilargia Kuantikoa aipatu zuten idazki askotan. Argi dago leku berezia zela haientzat. Bere kabuz bisitatzeko bezain berezia!</value>
+    <value>Ilargi Kuantikorako erromesaldia? Nomaiek Ilargi Kuantikoa aipatu zuten idazki askotan. Argi dago leku berezia zela haientzat. Bere kabuz bisitatzeko bezain berezia!</value>
   </entry>
   <entry>
     <key>RiebeckLearned_6It sounds like a coming-of-age ritual, like how hatchlings stay hatchlings until their stomachs are strong enough to drink sap wine.</key>
@@ -8562,7 +8562,7 @@
   </entry>
   <entry>
     <key>SOLANUM: The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; probably exhibits macroscopic quantum behavior because of its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt;. Shards that broke off from the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; have a similar effect, as I imagine you’ve seen elsewhere in this star system.</key>
-    <value>SOLANUM: Litekeena da &lt;color=lightblue&gt;Ilargi Kuantikoak&lt;/color&gt; jokabide kuantiko makroskopikoak erakustea &lt;color=lightblue&gt;Begia&lt;/color&gt; hurbil dagoelako. &lt;color=lightblue&gt;Ilargia Kuantikotik&lt;/color&gt; ateratako zatiek antzeko eragina dute, izar-sistema guztian zehar ikusiko ikusiko zenuenez.</value>
+    <value>SOLANUM: Litekeena da &lt;color=lightblue&gt;Ilargi Kuantikoak&lt;/color&gt; jokabide kuantiko makroskopikoak erakustea &lt;color=lightblue&gt;Begia&lt;/color&gt; hurbil dagoelako. &lt;color=lightblue&gt;Ilargia Kuantikotik&lt;/color&gt; ateratako zatiek antzeko eragina dute, izar-sistema guztian zehar ikusiko zenuenez.</value>
   </entry>
   <entry>
     <key>SOLANUM: Conscious observation forces a quantum object to collapse to a single possibility. But what would happen if a conscious observer somehow entered the &lt;color=lightblue&gt;Eye&lt;/color&gt; itself?</key>
@@ -8586,11 +8586,11 @@
   </entry>
   <entry>
     <key>SOLANUM: From this, we can reasonably infer the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;’s natural state is as we see it now, and that the Eye is its primary location.</key>
-    <value>SOLANUM: Horrengatin, konklusio arrazionala da &lt;color=lightblue&gt;Ilargi Kuantikoaren&lt;/color&gt; egoera naturala orain ikusten duguna dela, eta Begia dela haren kokapen nagusia.</value>
+    <value>SOLANUM: Horregatik, konklusio arrazionala da &lt;color=lightblue&gt;Ilargi Kuantikoaren&lt;/color&gt; egoera naturala orain ikusten duguna dela, eta Begia dela haren kokapen nagusia.</value>
   </entry>
   <entry>
     <key>SOLANUM: Given the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s moon, it’s likely that any characteristics the moon exhibits are also exhibited by the Eye itself. The &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; and its shards, for instance, are quantum; thus, the &lt;color=lightblue&gt;Eye&lt;/color&gt; is likely also quantum.</key>
-    <value>SOLANUM: &lt;color=lightblue&gt;Ilargia Kuantikoa&lt;/color&gt; &lt;color=lightblue&gt;Begiaren&lt;/color&gt; satelitea denez, litekeena da ilargi honek erakusten duen edozein ezaugarri Begiak ere erakustea. &lt;color=lightblue&gt;Ilargia Kuantikoa&lt;/color&gt; eta haren zatiak, adibidez, kuantikoak dira, eta beraz, litekeena da &lt;color=lightblue&gt;Begia&lt;/color&gt; ere kuantikoa izatea.</value>
+    <value>SOLANUM: &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt; &lt;color=lightblue&gt;Begiaren&lt;/color&gt; satelitea denez, litekeena da ilargi honek erakusten duen edozein ezaugarri Begiak ere erakustea. &lt;color=lightblue&gt;Ilargi Kuantikoa&lt;/color&gt; eta haren zatiak, adibidez, kuantikoak dira, eta beraz, litekeena da &lt;color=lightblue&gt;Begia&lt;/color&gt; ere kuantikoa izatea.</value>
   </entry>
   <entry>
     <key>SOLANUM: In fact, this moon is probably quantum because its proximity to the &lt;color=lightblue&gt;Eye&lt;/color&gt; made it quantum, the same way the areas surrounding quantum shards that landed on other planets eventually became quantum, too.</key>
@@ -8610,7 +8610,7 @@
   </entry>
   <entry>
     <key>SOLANUM: Suppose you could reach the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;: Would you try to enter it?</key>
-    <value>SOLANUM: Suposa dezagun &lt;color=lightblue&gt;Unibertsoaren Begira&lt;/color&gt; irits zintezkeela.: Saiatuko zinateke bertara sartzen?</value>
+    <value>SOLANUM: Suposa dezagun &lt;color=lightblue&gt;Unibertsoaren Begira&lt;/color&gt; irits zintezkeela: Saiatuko zinateke bertara sartzen?</value>
   </entry>
   <entry>
     <key>SOLANUM: What do you imagine the effects of a conscious observer might be?</key>
@@ -8666,11 +8666,11 @@
   </entry>
   <entry>
     <key>SOLANUM: There are many questions I would ask, if I could comprehend your language. You have my gratitude for understanding mine.</key>
-    <value>SOLANUM: Galdera asko egingo nizkizuke zure hizkuntza ulertuko banu. Nire esker ona duzu nirea ulertzeko.</value>
+    <value>SOLANUM: Galdera asko egingo nizkizuke zure hizkuntza ulertuko banu. Nire esker ona duzu nirea ulertzeagatik.</value>
   </entry>
   <entry>
     <key>SOLANUM: This is the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt;, where we both are standing.</key>
-    <value>SOLANUM: Gure oinak &lt;color=lightblue&gt;Ilargi Kuantikoaren&lt;/color&gt; gainean daude..</value>
+    <value>SOLANUM: Gure oinak &lt;color=lightblue&gt;Ilargi Kuantikoaren&lt;/color&gt; gainean daude.</value>
   </entry>
   <entry>
     <key>SOLANUM: Despite also orbiting other celestial bodies, the &lt;color=lightblue&gt;Quantum Moon&lt;/color&gt; is the &lt;color=lightblue&gt;Eye of the universe&lt;/color&gt;’s moon.</key>
@@ -9078,7 +9078,7 @@
   </entry>
   <entry>
     <key>ChertIntro2Hm? Oh, you’re back.</key>
-    <value>¿Mm? Ey, itzuli zara.</value>
+    <value>Mm? Ey, itzuli zara.</value>
   </entry>
   <entry>
     <key>ChertIntro2Say, have you noticed anything unusual about the stars lately? Something seems...&lt;Pause=0.5&gt; how to put this... &lt;Pause=0.5&gt;off.</key>
@@ -9282,7 +9282,7 @@
   </entry>
   <entry>
     <key>FoundSomethingWhy, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!</key>
-    <value>Vaya, ¡¿no es maravilloso?! ¿Sabes algo? ¡Yo también descubrí algunas cosas! ¡La mayoría se relaciona con la explosión del Sol!</value>
+    <value>Kontxo, Ez al da zoragarria?! Badakizu zerbait? Nik ere gauz batzuk aurkitu nituen! Gehiengoa eguzkiaren leherketari buruzkoak!</value>
   </entry>
   <entry>
     <key>FoundSomethingOh, who &lt;i&gt;cares&lt;/i&gt;?! What does it matter?! &lt;i&gt;Nothing&lt;/i&gt; matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!</key>
@@ -9777,7 +9777,7 @@
   </entry>
   <entry>
     <key>WhereToExploreWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Zer gehiago, zer gehiago... ¿Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
+    <value>Zer gehiago, zer gehiago... Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
   </entry>
   <entry>
     <key>WhereToExploreI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -9817,7 +9817,7 @@
   </entry>
   <entry>
     <key>MeetGabbro2F_1Do you remember, y’know, dying a few minutes ago? Maybe?</key>
-    <value>¿Gogoratzen duzu, eh... orain dela minutu batzuk hil zarela? agian?</value>
+    <value>Gogoratzen duzu, eh... orain dela minutu batzuk hil zarela? agian?</value>
   </entry>
   <entry>
     <key>GabbroMeetGabbro2F_1Oh yeah, we definitely died.</key>
@@ -9893,7 +9893,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_2FWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Zer gehiago, zer gehiago... ¿Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
+    <value>Zer gehiago, zer gehiago... Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2FI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -10001,7 +10001,7 @@
   </entry>
   <entry>
     <key>WhereToExplore_2TWhat else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the &lt;i&gt;island&lt;/i&gt; where I found the glowing Nomai &lt;i&gt;statue&lt;/i&gt;.&lt;Pause&gt; ...Get it?</key>
-    <value>Zer gehiago, zer gehiago... ¿Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
+    <value>Zer gehiago, zer gehiago... Estatuaren Uhartean egon al zara? Horrela bataiatu nuen, Nomai &lt;i&gt;estatua&lt;/i&gt; disdiratsua aurkitu nuen &lt;i&gt;irla&lt;/i&gt; bait zen &lt;Pause&gt; ... Ulertzen?</value>
   </entry>
   <entry>
     <key>WhereToExplore_2TI was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale.</key>
@@ -10061,7 +10061,7 @@
   </entry>
   <entry>
     <key>FarewellI tell you what, this has been really fun. And I got to help make something pretty cool, so I’ve got no complaints.</key>
-    <value>Badakizu zer? Primeran pasatu dut. Eta zerbait bikaina egiten lagundu nuen, beraz, ez daukat kexarik..</value>
+    <value>Badakizu zer? Primeran pasatu dut. Eta zerbait bikaina egiten lagundu nuen, beraz, ez daukat kexarik.</value>
   </entry>
   <entry>
     <key>FarewellI mean, not me, exactly, but close enough.</key>
@@ -10377,7 +10377,7 @@
   </entry>
   <entry>
     <key>SignalscopeKid1Hm? Oh, hello, astronaut.</key>
-    <value>¿Mm? Ah, kaixo, astronauta.</value>
+    <value>Mm? Ah, kaixo, astronauta.</value>
   </entry>
   <entry>
     <key>SignalscopeKid1This is good weather for your launch, right? That’s lucky!</key>
@@ -10493,7 +10493,7 @@
   </entry>
   <entry>
     <key>FarewellThe past is past, now, but that’s... you know, that’s okay! It’s never really gone completely. The future is always built on the past, even if we won't get to see it.</key>
-    <value>El pasado es el pasado ahora, pero... ya sabes, ¡está bien! Nunca se va por completo. El futuro siempre se construye sobre el pasado, aun si no llegamos a verlo.</value>
+    <value>Iragana iragana da orain, baina... badakizu, ondo dago! Ez da inoiz erabat joango. Etorkizuna beti iraganaren gainean eraikitzen da, nahiz eta ez dugun ikusten.</value>
   </entry>
   <entry>
     <key>FarewellStill, it’s, um, time for something new, now.</key>
@@ -10509,7 +10509,7 @@
   </entry>
   <entry>
     <key>WaitingForOthersI’m glad you remembered me.</key>
-    <value>Pozten naiz gogoratzen nauzulako..</value>
+    <value>Pozten naiz gogoratzen nauzulako.</value>
   </entry>
   <entry>
     <key>ReadyToPlayA conscious observer has entered the Eye. I wonder what happens now.</key>
@@ -10996,11 +10996,11 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardThe Nomai hypothesized that this shard is actually a piece of the Quantum Moon.</key>
-      <value>Nomaien hipotesiaren arabera, zati hau, izatez, Ilargia Kuantikoaren zati bat da.</value>
+      <value>Nomaien hipotesiaren arabera, zati hau, izatez, Ilargi Kuantikoaren zati bat da.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShardThis shard emits the same signal as the Quantum Moon.</key>
-      <value>Zati honek Ilargia Kuantikoaren seinale bera igortzen du.</value>
+      <value>Zati honek Ilargi Kuantikoaren seinale bera igortzen du.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Northern Glacier</key>
@@ -11328,7 +11328,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai GraveThe Nomai could faintly hear the Vessel's beacon from within the seed, but the opening was too small for a single Nomai to fit through, much less an escape pod.</key>
-      <value>Nomaiek apenas entzuten zuten baliza haziaren barrutik, baina irekiera txikiegia zen Nomai bat pasatzeko, eta are gutxiago iheserako kapsula bat.</value>
+      <value>Nomaiek ia ez zuten baliza haziaren barrutik entzuten, baina irekiera txikiegia zen Nomai bat pasatzeko, eta are gutxiago iheserako kapsula bat.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Nomai GraveThe Vessel's beacon was dying, and would soon be gone completely.</key>
@@ -11392,7 +11392,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonI used a Nomai projection pool and saw the interior of a space station in orbit around Giant's Deep.</key>
-      <value>Nomai proiekzio-aterpetxe bat erabili nuen, eta erraldoiaren Leizearen inguruan orbitan zegoen espazio-estazio baten barrualdea ikusi nuen..</value>
+      <value>Nomai proiekzio-aterpetxe bat erabili nuen, eta erraldoiaren Leizearen inguruan orbitan zegoen espazio-estazio baten barrualdea ikusi nuen.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Orbital Probe CannonThe Nomai decided to construct a probe cannon in orbit around Giant’s Deep.</key>
@@ -12180,7 +12180,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Anglerfish FossilNomai children used to play a game here. One player was the anglerfish and wore a blindfold. The rest of the children (the littlefish) lined up against one wall. When the anglerfish said go, the littlefish had to sneak across to the other side.</key>
-      <value>Nomai haurrek jolas bat egiten zuten hemen. Jokalari batek zapoaren rola hartzen zuen eta benda bat erabiltzen zuen. Gainerako haurrak (arraintxoak) ilaran jartzen ziren horma baten kontra. Zapoak «orain» esaten zuenean, arraintxoek ihes egin eta beste aldera iritsi behar zuten..</value>
+      <value>Nomai haurrek jolas bat egiten zuten hemen. Jokalari batek zapoaren rola hartzen zuen eta benda bat erabiltzen zuen. Gainerako haurrak (arraintxoak) ilaran jartzen ziren horma baten kontra. Zapoak «orain» esaten zuenean, arraintxoek ihes egin eta beste aldera iritsi behar zuten.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Anglerfish FossilThe blindfold rule was added because real anglerfish are blind.</key>
@@ -12484,7 +12484,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShrineThe Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location.</key>
-      <value>Nomaiek santutegi bat eraiki zuten Ilargia Kuantikoan, erromesaldian seigarren kokapenera laguntzeko.</value>
+      <value>Nomaiek santutegi bat eraiki zuten Ilargi Kuantikoan, erromesaldian seigarren kokapenera laguntzeko.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum ShrineA Nomai shrine that wanders about the Quantum Moon.</key>
@@ -12512,7 +12512,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationMany Nomai went on a pilgrimage during which the Quantum Moon carried them to its sixth and most secret location.</key>
-      <value>Nomai askok erromesaldi bat egiten zuten, non Ilargia Kuantikoak seigarren kokalekura eramaten zituen, sekretuenera.</value>
+      <value>Nomai askok erromesaldi bat egiten zuten, non Ilargi Kuantikoak seigarren kokalekura eramaten zituen, sekretuenera.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationTo explore the sixth location, the shrine on the Quantum Moon must be on the moon’s north pole.</key>
@@ -12528,7 +12528,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationAt this location, the Quantum Moon becomes a reflection of the Eye itself.</key>
-      <value>Kokapen honetan, Ilargia Kuantikoa Begi beraren isla bihurtzen da.</value>
+      <value>Kokapen honetan, Ilargi Kuantikoa Begi beraren isla bihurtzen da.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth LocationThe Eye is likely the source of all macroscopic quantum phenomena in the solar system.</key>
@@ -12919,7 +12919,6 @@ LOADING...???
     <TranslationTableEntryUI>
       <key>147</key>
       <value>ALDAKETAK EZARRI NAHI DITUZU?</value>
-      <value>¿QUIERES APLICAR LOS CAMBIOS?</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>148</key>
@@ -13326,11 +13325,11 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>280</key>
-      <value>Jaurtiketa-kodigoak sartu</value>
+      <value>Jaurtiketa-kodeak sartu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>281</key>
-      <value>Jaurtiketa-kodigoak behar ditu</value>
+      <value>Jaurtiketa-kodeak behar ditu</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>282</key>
@@ -13706,7 +13705,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>420</key>
-      <value>Jaurtiketa kodigoa: --|-..|-.</value>
+      <value>Jaurtiketa kodea: --|-..|-.</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>421</key>
@@ -14430,7 +14429,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>811</key>
-      <value>ESPAZIO-DENBORAREN EHUNA SUNTSITU ZENUEN</value>
+      <value>ESPAZIO-DENBORAREN EHUNA SUNTSITU DUZU</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>812</key>
@@ -14722,7 +14721,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>968</key>
-      <value>EZIN IZAN DA ESPLORATZAILEA BERRESKURATU; HELBURU GEHIEGINO SE PUDO RECUPERAR EL EXPLORADOR; DEMASIADOS OBJETIVOS</value>
+      <value>EZIN IZAN DA ESPLORATZAILEA BERRESKURATU; HELBURU GEHIEGI</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>969</key>
