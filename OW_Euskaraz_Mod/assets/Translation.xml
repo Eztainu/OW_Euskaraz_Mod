@@ -4912,7 +4912,7 @@
 			ILEX: We might have to build a smaller Vessel for now, even though Vessels are normally large. But we could make it bigger later once we reach planets with more resources.
 		</key>
     <value>
-			ILEX: Agian Ontzi txikiago bat eraiki beharko dugu oraingoz, baina handiak izaten dira. Baina baliabide gehiago dituzten planetetara iritsitakoan handitu ahal izango genuke..
+			ILEX: Agian Ontzi txikiago bat eraiki beharko dugu oraingoz, baina handiak izaten dira. Baina baliabide gehiago dituzten planetetara iritsitakoan handitu ahal izango genuke.
 		</value>
   </entry>
   <entry>
@@ -5587,7 +5587,7 @@
   </entry>
   <entry>
     <key>
-			Melorae: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
+			MELORAE: Coleus is missing! He vanished from the &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!
 		</key>
     <value>
 			MELORAE: Coleus desagertu egin da! &lt;color=orange&gt;Aintzira Kobazulotik&lt;/color&gt; (laku lehorraren hondoan dagoena, ipar poloan) desagertu zen duela egun batzuk, eta ez dugu haren arrastorik aurkitu. Ez dakit zenbat aire zeukan desagertu zenean. Lagunok, hau irakurtzen ari bazarete, arren eskatzen dizuet Coleus aurkitzen laguntzeko!
@@ -5615,7 +5615,7 @@
   </entry>
   <entry>
     <key>MELORAE: I turned away from Coleus to examine a sample, and when I turned back, he simply wasn’t there anymore. He had a limited supply of air, Annona! I’m afraid for him!</key>
-    <value>MELORAE: Coleusengandik urrundu nintzen lagin bat aztertzeko, eta jiratu nintzenean, besterik gabe, ez nengoen han. Aire hornidura mugatua zuen, Annona! Beldur naiz haren bizitzagatik!</value>
+    <value>MELORAE: Coleusengandik urrundu nintzen lagin bat aztertzeko, eta jiratu nintzenean, besterik gabe, ez zegoen han. Aire hornidura mugatua zuen, Annona! Beldur naiz haren bizitzagatik!</value>
   </entry>
   <entry>
     <key>ANNONA: Hypothesis: We will learn more by examining the northern &lt;color=orange&gt;Lakebed Cave&lt;/color&gt; where Coleus disappeared. Search quickly, everyone; we have no time to squander!</key>
@@ -5812,7 +5812,7 @@
 			Recall the rule of quantum entanglement.
 		</key>
     <value>
-			Enlazamendu koantikoaren araua gogora ekar ezazu.
+			Elkarlotze koantikoaren araua gogora ekar ezazu.
 		</value>
   </entry>
   <entry>
@@ -7883,7 +7883,7 @@
   </entry>
   <entry>
     <key>RiebeckIntro...But that’s enough about me and my problems. You didn’t come all this way to listen to me blather, did you! Heh, that’d be... yeah.</key>
-    <value>Utzi egigo diot nitaz eta nire arazoez hitz egiteari. Ez dut uste honaino etorri zarenik ni hitz egiten entzutera! Je, hori litzateke... Bai.</value>
+    <value>Utzi egingo dut nitaz eta nire arazoez hitz egiteari. Ez dut uste honaino etorri zarenik ni hitz egiten entzutera! Je, hori litzateke... Bai.</value>
   </entry>
   <entry>
     <key>Riebeck1Hi! ...What’s up?</key>
@@ -10816,7 +10816,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageThe Nomai statue in the observatory opened its eyes and looked at me! I saw strange glowing lights and my own memories flashed before my eyes.</key>
-      <value>Behatokiko Nomai estatuak begiak ireki eta begiratu egin zidan! Argi bitxi eta distiratsuak ikusi nituen, eta neure oroitzapenak agertu zitzaizkidan begien aurrean.</value>
+      <value>Behatokiko Nomai estatuak begiak ireki eta begiratu ninduen! Argi bitxi eta distiratsuak ikusi nituen, eta neure oroitzapenak agertu zitzaizkidan begien aurrean.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>VillageHal says the statue has never opened its eyes before (despite Hornfels' best efforts).</key>
@@ -11012,7 +11012,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Northern GlacierThe Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology.</key>
-      <value>Nomaiak Zulo Zuriaren Estaziotik honaino iristeko distortsioa erabiltzeko gai izan ziren Han sortu zuten lehen aldiz distortsio-teknologia.</value>
+      <value>Nomaiak Zulo Zuriaren Estaziotik honaino iristeko distortsioa erabiltzeko gai izan ziren. Han sortu zuten lehen aldiz distortsio-teknologia.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Escape Pod 1</key>
@@ -11064,7 +11064,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Mural (Panel 3)A mural of three escape pods evacuating the Nomai vessel.</key>
-      <value>Hiru ihes-kapsulako horma-irudia Nomai Ontzia husten dutenean.</value>
+      <value>Hiru ihes-kapsulako horma-irudia Nomai Ontzitik alde egiten dutenean.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Mural (Panel 2)</key>
@@ -11148,7 +11148,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeAll of the warp towers were being constructed on Ash Twin, while the six warp receivers were being constructed at different locations.</key>
-      <value>Distortsio-dorre guztiak Errauts Bikian eraikitzen ari ziren, eta distortsio-hargailuak, berriz, hainbat lekutan eraikitzen.</value>
+      <value>Distortsio-dorre guztiak Errauts Bikian eraikitzen ari ziren, eta distortsio-hargailuak, berriz, hainbat lekutan.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeA Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project.</key>
@@ -11256,7 +11256,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Feldspar’s CampFeldspar doesn't think my scout tracker is wrong when it says my scout is in two places at once. They have a theory that space doesn’t work the same inside Dark Bramble.</key>
-      <value>Feldespatoren arabera, ez da desegokia arakatzaileak adieraztea nire esploratzailea bi lekutan dagoela aldi berean. Espinoscuroren barruan espazioak ez duela berdin funtzionatzen uste du.</value>
+      <value>Feldespatoren arabera, ez da desegokia arakatzaileak adieraztea nire esploratzailea bi lekutan dagoela aldi berean. Arantzabeltzaren barruan espazioak ez duela berdin funtzionatzen uste du.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Feldspar’s CampFeldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet.</key>
@@ -11300,7 +11300,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Escape Pod 3All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-      <value>Iheserako hiru kapsulak Ontzi izeneko zerbaitetik jaurti ziren, eta hau erabat hondatu zen.</value>
+      <value>Iheserako hiru kapsulak erabat hondatu zen Ontzi izeneko zerbaitetik jaurti ziren.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Escape Pod 3The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once.</key>
@@ -11368,7 +11368,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselI activated a three-sided pillar on the Vessel's bridge that appears to be some sort of input device.</key>
-      <value>Hiru aldeko zutabe bat aktibatu dut Naveko zubian, sarrerako gailuren bat dirudiena.</value>
+      <value>Hiru aldeko zutabe bat aktibatu dut Ontziko zubian, sarrerako gailuren bat dirudiena.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The VesselThe Nomai tried to call for help, but the Vessel's outgoing message system broke during the crash.</key>
@@ -11732,7 +11732,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a room with a burned control interface and a projection that seems to indicate a broken connection between the Stranger and another craft.</key>
-      <value>Gela bat aurkitu nuen kontrol interfaze erre batekin eta Kanpotarraren eta beste astronave baten arteko lotura matxuratua erakusten duen proiekzio batekin.</value>
+      <value>Gela bat aurkitu nuen kontrol interfaze erre batekin eta Kanpotarraren eta beste espazio-ontzi baten arteko lotura matxuratua erakusten duen proiekzio batekin.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>ReservoirI found a projection showing the Stranger's current trajectory and the sun's predicted supernova radius.</key>
@@ -12060,7 +12060,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Escape Pod 2All three escape pods were launched from something called the Vessel, which was badly damaged.</key>
-      <value>Iheserako hiru kapsulak Ontzi izeneko zerbaitetik jaurti ziren eta erabat hondatu zena.</value>
+      <value>Iheserako hiru kapsulak erabat hondatu zen Ontzi izeneko zerbaitetik jaurti ziren.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>High Energy Lab</key>
@@ -12200,7 +12200,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum CavesThe Nomai noticed a strange wandering rock that appeared in multiple caves on Ember Twin’s northern hemisphere.</key>
-      <value>Nomaiek ikusi zuten bazela arroka alderrai bitxi bat, Txingar Bikiko ipar hemisferioan leize batzuetan agertu zena.</value>
+      <value>Nomaiek ikusi zuten bazela arroka alderrai bitxi bat, Txingar Bikiko ipar hemisferioan leize batzuetan agertzen zena.</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum CavesI found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency.</key>
@@ -12496,11 +12496,11 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Shrine"Recall the rule of quantum entanglement" is inscribed next to a mural of a quantum shard in a cave.</key>
-      <value>Kobazulo bateko zati kuantiko bateko horma-irudi baten ondoan, honako inskripzio hau irakur daiteke: «Elkarlotze kuantikoaren araua gogorarazten du».</value>
+      <value>Kobazulo bateko zati kuantiko bateko horma-irudi baten ondoan, honako inskripzio hau irakur daiteke: «Elkarlotze koantikoaren araua gogora ekar ezazu».</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Quantum Shrine"Recall the rule of the sixth location" is inscribed next to a mural of a tower hanging above a black hole.</key>
-      <value>Zulo beltz baten gainean zintzilik dagoen dorre baten horma-irudiaren ondoan, honako inskripzio hau irakur daiteke: «Seigarren kokapenaren araua gogorarazten du».</value>
+      <value>Zulo beltz baten gainean zintzilik dagoen dorre baten horma-irudiaren ondoan, honako inskripzio hau irakur daiteke: «Seigarren kokapenaren araua gogora ekar ezazu».</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Sixth Location</key>
